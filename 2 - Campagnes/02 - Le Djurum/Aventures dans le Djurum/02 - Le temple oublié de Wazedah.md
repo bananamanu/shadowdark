@@ -43,14 +43,9 @@ Puis il commit l'erreur qui lui coûterait tout. Son gang dévalisa une caravane
 
 Dans leur camp de fortune, quelque part entre deux dunes, un serpent mordit Wadim au poignet pendant son sommeil. Au matin, son bras enflait, le venin remontait. Il n'avait pas le choix : il se trancha la main avec sa propre lame, serra un tissu brûlant sur le moignon, et survécut par pur entêtement. C'est Malchor qui lui fabriqua par la suite le crochet de métal qu'il porte en guise de main droite — d'où le surnom que personne n'ose prononcer devant lui.
 
-C'est dans le délire de la fièvre qui suivit que les visions commencèrent.
-
-Une voix de femme, douce et ancienne. Des images d'une façade de pierre taillée dans la falaise, de couloirs frais et sombres, d'un trésor qui l'attendait. Il comprit bien plus tard — beaucoup trop tard — que le venin du serpent avait été le vecteur voulu. Que la Reine des Serpents cherchait depuis des années un instrument assez désespéré pour la libérer, et que le serpent n'avait pas mordu Wadim par hasard.
-
-À peine remis sur pied, il quitta le camp seul, de nuit, sans un mot à Malchor. Il marcha plusieurs jours, guidé par les visions, jusqu'à ce que la façade monumentale du temple de Wazedah apparaisse dans la brume de chaleur.
+C'est dans le délire de la fièvre qui suivit que les visions commencèrent. Une voix de femme, douce et ancienne. Des images d'une façade de pierre taillée dans la falaise, de couloirs frais et sombres, d'un trésor qui l'attendait. Il comprit bien plus tard — beaucoup trop tard — que le venin du serpent avait été le vecteur voulu. Que la Reine des Serpents cherchait depuis des années un instrument assez désespéré pour la libérer, et que le serpent n'avait pas mordu Wadim par hasard. À peine remis sur pied, il quitta le camp seul, de nuit, sans un mot à Malchor. Il marcha plusieurs jours, guidé par les visions, jusqu'à ce que la façade monumentale du temple de Wazedah apparaisse dans la brume de chaleur.
 
 Ce qu'il trouva là, il le garda pour lui. Il revint au camp transformé — plus calme, plus sûr de lui, avec une lueur étrange dans le regard. Il ordonna à son gang de le suivre au temple. Ceux qui posèrent des questions découvrirent ce que faisait le bracelet ancien qu'il portait désormais au poignet gauche.
-
 La transformation fut progressive. Les yeux d'abord, qui prirent un éclat étrange dans l'obscurité. Puis l'esprit, lentement colonisé par une volonté qui n'était pas la sienne. Wadim croit toujours qu'il agit librement, que la Reine est sa déesse, que le trésor qu'il accumule est une offrande volontaire. La frontière entre ce qu'il veut et ce qu'elle veut est devenue impossible à tracer — même pour lui.
 
 Malchor voit ce que Wadim ne voit plus. Il avait prévu de le renverser au bon moment. Ce moment n'est pas venu. Il attend, et se demande si le moment viendra jamais.
