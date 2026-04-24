@@ -35,7 +35,8 @@ Elle n'était pas seule pour longtemps. Son pouvoir de séduction toujours actif
 Ce fut la Confrérie Ashir Bel Dhekran qui s'opposa à elle — un ordre de moines magiciens serviteurs d'Ord le Sagace. Le Miroir de Pureté était la seule arme capable de la détruire définitivement, mais il resta introuvable pour ceux qui auraient pu s'en servir. Les membres de la Confrérie firent ce qu'ils purent : utilisant les propriétés de son propre regard, ils la piégèrent dans une salle tapissée de miroirs au sommet du temple de Wazedah, dans les contreforts des Monts Silencieux. La Reine des Serpents entra en stase, prisonnière de sa propre image. Le Miroir de Pureté fut perdu — égaré quelque part dans le Dédale, ou peut-être caché par les derniers survivants de la Confrérie.
 
 Pendant des siècles, le temple veilla sur lui-même et tomba finalement dans l'oubli, jusqu'au jour ou un tremblement de terre fissura l'un des miroirs.
-### La déchéance de Wadim
+
+#### La déchéance de Wadim
 
 Wadim n'était pas un grand homme. Voleur de deuxième ordre opérant dans les ruelles du Vieux Quartier d'Alkesh, il avait un talent certain pour le bagout et une capacité remarquable à convaincre des gens plus courageux que lui de prendre des risques à sa place. Malchor, son lieutenant, était le vrai cerveau de l'affaire — mais Wadim avait le charme, et dans le métier, ça comptait.
 
@@ -56,13 +57,112 @@ Engagés par un intermédiaire discret pour traquer le gang du bandit Wadim le C
 Le temple est loin d'être une simple cachette de bandits. Les PJ doivent y affronter les sbires de Wadim, mais aussi une délégation de gnolls esclavagistes menée par la redoutable Khara, et naviguer entre les intrigues du lieutenant Malchor, qui joue sa propre partie. Des esclaves enchaînés dans l'ancienne salle de prière attendent d'être secourus ou vendus. En fouillant les lieux, les PJ comprennent que ce temple appartenait autrefois à la Confrérie Ashir Bel Dhekran, un ordre de moines magiciens dont les symboles couvrent encore les murs. C'est dans la bibliothèque de l'ordre qu'ils découvrent un passage vers des galeries supérieures, plus anciennes et plus dangereuses.
 Là-haut, des mort-vivants en armure patrouillent encore, gardiens d'un secret que les fresques murales révèlent peu à peu : ce temple fut autrefois la prison d'une puissance terrifiante capturée par la Confrérie des siècles plus tôt. Wadim, guidé par les visions que lui a soufflées cette entité, l'a libérée. L'aventure s'achève sur un affrontement épique contre Wadim le Crochu, au-dessus d'un gouffre sans fond — et sur la découverte que quelque chose d'ancien et de maléfique rôde désormais librement dans le désert.
 
----
-
 ## Partie 1 — Sur la piste des bandits
 
 ### L'entretien
 
+Les PJ sont convoqués — ou se retrouvent par hasard — au **Joyau de Borak**, une taverne enfumée du Vieux Quartier d'Alkesh où aventuriers, mercenaires et gens de peu se côtoient chaque soir dans un brouhaha de rumeurs et de transactions douteuses. C'est là que [[Tawfiq]] tient sa cour. Conteur professionnel le soir, entremetteur discret le reste du temps, il est l'un de ces personnages qu'on ne remarque pas tout de suite mais qu'on finit toujours par retrouver là où quelque chose se trame. Il a été mandaté par un tiers — dont il ne révèlera jamais le nom — pour recruter des gens capables et discrets, sans lien avec les factions de la ville.
+
+#### Pourquoi confier cette mission à des extérieurs ?
+
+La Guilde des Voleurs d'Alkesh ne peut pas régler cette affaire elle-même. Wadim connaît tous ses membres — il en faisait partie. Envoyer l'un des leurs, c'est prendre le risque d'être reconnu avant même d'avoir approché le repaire. Les PJ sont des inconnus, des visages neufs sans lien apparent avec les factions d'Alkesh : exactement ce qu'il faut. Et si l'opération tourne mal, la Guilde n'est officiellement impliquée dans rien.
+
+#### Accroches
+
+Choisir l'accroche la plus adaptée au groupe, ou en combiner plusieurs.
+
+**A — Le message.** Les PJ reçoivent chacun un petit rouleau de papier plié, glissé dans leur poche ou déposé sur leur table sans qu'ils aient rien vu. Il ne porte qu'une phrase : _"Le Joyau de Borak. Ce soir. Demandez Tawfiq. L'affaire en vaut la peine."_ Pas de signature.
+
+**B — La réputation.** Tawfiq approche les PJ directement, avec le sourire d'un homme qui sait déjà tout ce qu'il a besoin de savoir sur eux. _"On m'a dit que vous étiez des gens de ressources. On m'a dit aussi que vous aviez besoin d'or. Ces deux informations m'intéressent."_
+
+**C — La dette.** L'un des PJ doit un service à Tawfiq — ou à quelqu'un que Tawfiq représente. Le hakawati se présente avec son sourire habituel pour rappeler que les dettes se remboursent, et que celle-ci peut l'être très agréablement.
+
+#### Dans les fumées du Joyau de Borak
+
+_L'homme qui vous attend dans l'angle le plus sombre de la salle n'a pourtant rien d'un homme de l'ombre. Ses vêtements sont d'un vert profond brodé de fil cuivré, son turban retenu par une broche en forme de scorpion à l'œil de rubis. Il tient dans une main un verre de thé brûlant et dans l'autre un chapelet d'ambre qu'il fait glisser entre ses doigts sans y prêter attention, comme d'autres respirent. Il vous regarde approcher avec l'air satisfait d'un homme dont les prédictions viennent de se confirmer._
+
+_— Asseyez-vous, dit-il simplement. Je m'appelle Tawfiq. Je raconte des histoires — c'est mon métier. Celle que je vais vous proposer ce soir est particulièrement intéressante, parce qu'elle n'est pas encore terminée. Et parce que vous pourriez bien en être les héros._
+
+_Il pose son verre, penche légèrement la tête, et sourit._
+
+_— Ou pas. Ça dépend de ce que vous avez dans le ventre._
+
+#### Parler avec Tawfiq
+
+**Ce que Tawfiq sait et peut dire aux PJ :**
+
+Un gang d'une vingtaine de voleurs dirigé par un certain Wadim s'est rendu coupable d'un affront grave envers des personnes importantes d'Alkesh. Ces personnes souhaitent que le problème soit réglé discrètement, sans impliquer les gardes ni ébruiter l'affaire. Wadim et ses hommes se sont enfuis dans le désert des Monts Silencieux. Grâce à un informateur qui n'est plus de ce monde, on sait qu'ils ont établi un premier camp quelque part dans les contreforts — Tawfiq peut fournir une direction approximative et le nom d'un guide local fiable.
+
+**Ce que Tawfiq ne dit pas :**
+
+Que ses commanditaires sont la [[Guilde des Voleurs d'Alkesh]]. Que l'informateur en question était un bandit de Wadim qui a eu la mauvaise idée de rentrer à Alkesh blessé, et qui a vendu l'emplacement du camp avant de mourir. Que la Guilde ignore que Wadim a depuis longtemps quitté ce camp. Et surtout, que l'affaire est infiniment plus grave qu'un simple règlement de comptes entre voleurs.
+
+**La récompense :**
+
+Tawfiq propose **30 po par tête** à la conclusion de la mission, avec une avance de **5 po** pour les frais immédiats. C'est une récompense honnête pour des aventuriers de bas niveau — ni extravagante, ni insultante. Les PJ peuvent négocier : il montera jusqu'à **40 po** sans trop résister, mais s'en tiendra là, arguant que ses commanditaires ne sont pas des mécènes. En termes de PX, ces 30-40 po constituent un trésor de qualité _normale_ (1 PX) — suffisant pour motiver sans déséquilibrer la progression.
+
+Si les PJ demandent des garanties ou veulent connaître le commanditaire, Tawfiq répond avec un sourire indulgent : _"Les gens qui paient pour la discrétion paient aussi pour qu'on ne pose pas de questions. C'est le principe."_
+
+**Le guide :**
+
+Tawfiq recommande [[Bassim]], un cavalier du désert qui connaît les Monts Silencieux mieux que quiconque à Alkesh. Il est disponible au marché aux chameaux dès le lendemain matin, au tarif de **5 po par jour**. Tawfiq précise, sans emphase particulière, qu'il serait déraisonnable de s'aventurer dans ce désert sans lui.
+
+**Traits à jouer :**
+
+Tawfiq ne perd jamais son calme. Il répond aux questions directes par des questions indirectes, aux menaces par un sourire amusé. Il donne toujours l'impression d'en savoir plus qu'il n'en dit — parce que c'est vrai. Si les PJ tentent de l'intimider ou de le prendre en défaut, il se contente de faire glisser son chapelet entre ses doigts un peu plus vite, et de changer de sujet avec une grâce désarmante. Ce n'est qu'à ce moment-là, dans l'imperceptible accélération du chapelet, qu'un observateur très attentif pourrait deviner que cet homme n'est pas aussi inoffensif qu'il y paraît.
+
 ### Le départ d'Alkesh
+
+Les PJ disposent du reste de la nuit et de la matinée suivante pour se préparer avant de quitter la ville. L'avance de 5 po versée par Tawfiq couvre les frais les plus immédiats — mais tout s'achète cher à Alkesh pour qui est pressé.
+
+
+#### Les préparatifs
+
+Le souk d'Alkesh ouvre à l'aube. Les PJ peuvent s'y procurer tout ce dont ils ont besoin, mais le MJ est encouragé à rappeler que le désert des Monts Silencieux est un adversaire à part entière. Les joueurs qui négligent les provisions en pâtiront.
+
+**Ce qu'il faut absolument avoir :**
+
+- **De l'eau.** C'est la priorité absolue. Chaque PJ a besoin d'au moins une ration par jour — davantage par temps de chaleur extrême (voir _Voyager dans les sables_). Des outres supplémentaires peuvent être achetées au marché pour 3 pa pièce.
+- **Des rations.** Le nécessaire d'écumeur (7 po) en fournit trois, ce qui couvre environ un jour et demi. Pour un voyage de trois à quatre jours aller, il faut prévoir davantage.
+- **Une protection contre le soleil.** Chèche, burnous, vêtements amples. Le MJ peut imposer un désavantage aux tests de CON contre la chaleur aux PJ qui voyagent sans protection adaptée.
+
+**Ce qui est utile mais optionnel :**
+
+- **Une monture.** Un [[Chameau|chameau]] (50 po) ou un [[Cheval|cheval]] (50 po) réduit de moitié le temps de traversée d'une case. Dans le désert, le chameau est préférable — il ne consomme des rations qu'une fois par semaine. Les chevaux sont plus rapides mais plus gourmands et moins résistants à la chaleur. Sans monture, comptez quatre heures pour traverser une case en terrain sablonneux.
+- **Des cordes, un grappin, du matériel d'escalade.** Le temple de Wazedah est taillé dans la falaise. Inutile d'anticiper... ou pas.
+
+#### Le guide : Bassim
+
+[[Tawfiq]] a recommandé un guide du nom de **Bassim**, cavalier du désert et connaisseur des Monts Silencieux. On le trouve chaque matin au marché aux chameaux, dans le Souk d'Alkesh — un homme sec et brun d'une quarantaine d'années, au visage tanné par des décennies de soleil, qui fume une longue pipe en regardant passer les acheteurs avec une indifférence calculée.
+
+Son tarif : **5 po par jour**, payables d'avance pour la première journée. Il fournit son propre chameau et ses propres provisions. Il ne négocie pas, mais il accepte un verre de thé.
+
+**Ce que Bassim peut apporter :**
+
+- Avantage aux tests d'orientation dans le désert des Monts Silencieux.
+- Connaissance des sources d'eau et des abris naturels sur le trajet.
+- Avertissement préalable sur les zones dangereuses connues (territoire de scorpions géants, routes fréquentées par des nomades hostiles).
+- Une carte sommaire tracée de mémoire sur un bout de tissu.
+
+**Ce que Bassim ne fera pas :**
+
+Il s'arrête à la vue du temple. Son contrat, dit-il, couvre le voyage — pas ce qu'il y a dedans. Il n'est pas lâche, mais il n'est pas stupide non plus. Il peut attendre au camp de base pendant que les PJ explorent, et servir de point de repli si les choses tournent mal.
+
+**Voyager sans guide :** c'est possible. C'est aussi risqué. Sans Bassim ou équivalent, les PJ doivent réussir un test d'INT ND 12 à chaque sortie de case pour ne pas se perdre. En cas d'échec, ils dérivent dans une case adjacente tirée au hasard — ce qui, dans le désert, peut coûter une journée et des rations.
+
+#### Le désert attend...
+
+_Alkesh s'éveille avant l'aube. Les premiers muezzins appellent à la prière depuis les tours des temples quand les porteurs d'eau entament déjà leurs tournées, les outres tintant contre les flancs de leurs ânes. Le souk s'illumine de torches et de braseros dans l'air encore frais. Dans quelques heures, la chaleur rendra tout effort pénible._
+
+_Vous quittez la ville par la porte Est au lever du soleil, au moment où les premiers rayons rasent les dômes de cuivre et font flamboyer les murs blancs. Devant vous, le désert des Monts Silencieux s'étend jusqu'à l'horizon — un océan de sable ocre parsemé de rochers rouges, immobile et indifférent. L'air sent déjà le sable chaud et la résine._
+
+_Bassim vous attend à l'extérieur des murailles, déjà en selle, sa pipe éteinte coincée entre les dents. Il vous regarde approcher, jette un coup d'œil à votre équipement, et hoche la tête d'un air qui n'est pas tout à fait approbateur._
+
+_— On marche jusqu'à midi, dit-il. Après, on s'arrête. On repart en fin d'après-midi. La nuit, on dort. C'est comme ça qu'on fait dans le désert._
+
+_Il fait tourner son chameau sans attendre votre réponse._
+
+_— Suivez-moi et ne vous éloignez pas._
 
 ### Voyager dans le désert
 
