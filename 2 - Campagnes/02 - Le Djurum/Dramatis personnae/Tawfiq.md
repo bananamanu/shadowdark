@@ -3,8 +3,8 @@
 tags:
 
 - jdr/pnj
-- DJ
-- CS2 campagne: Le Djurum statut: actif
+- DJ01
+- CS2
 
 ---
 

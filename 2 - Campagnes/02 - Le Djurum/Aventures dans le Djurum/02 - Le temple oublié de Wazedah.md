@@ -95,7 +95,7 @@ Un gang d'une vingtaine de voleurs dirigé par un certain Wadim s'est rendu coup
 
 **Ce que Tawfiq ne dit pas :**
 
-Que ses commanditaires sont la [[Guilde des Voleurs d'Alkesh]]. Que l'informateur en question était un bandit de Wadim qui a eu la mauvaise idée de rentrer à Alkesh blessé, et qui a vendu l'emplacement du camp avant de mourir. Que la Guilde ignore que Wadim a depuis longtemps quitté ce camp. Et surtout, que l'affaire est infiniment plus grave qu'un simple règlement de comptes entre voleurs.
+Que ses commanditaires sont la Guilde des Voleurs d'Alkesh. Que l'informateur en question était un bandit de Wadim qui a eu la mauvaise idée de rentrer à Alkesh blessé, et qui a vendu l'emplacement du camp avant de mourir. Que la Guilde ignore que Wadim a depuis longtemps quitté ce camp. Et surtout, que l'affaire est infiniment plus grave qu'un simple règlement de comptes entre voleurs.
 
 **La récompense :**
 
@@ -166,10 +166,80 @@ _— Suivez-moi et ne vous éloignez pas._
 
 ### Voyager dans le désert
 
-> _Voir [[Voyager dans les sables]] et [[Voyage en extérieur]]_
+> _Voir [[Voyager dans les sables]] du Cursed Scroll 2 et [[12 - Voyage en extérieur|Voyage en extérieur]] du livre de règle de Shadowdark_
 
-### Événements
+#### L'itinéraire
 
+Le trajet entre [[Les sites du Djurum#709. Alkesh|Alkesh (709)]] et le premier camp des bandits ([[Les sites du Djurum#1208. Voleurs de Wadim|1208]]) couvre **5 cases hexagonales** de 10 km chacune. Le sable est un terrain difficile — la durée de traversée est doublée.
+
+**Avec Bassim et des chameaux :** une case toutes les 4h. Avec la halte obligatoire aux heures de fournaise, les PJ couvrent **2 cases par jour**. Durée totale : **2 à 3 jours**.
+
+**Sans monture :** une case toutes les 8h, soit **1 case par jour** au mieux. Durée totale : **5 jours** — avec les provisions en conséquence.
+
+Bassim suit l'itinéraire suivant : **709 → 809 → 909 → 1009 → 1109 → 1208**. Avec lui, aucun test d'orientation n'est nécessaire sauf en cas de tempête de sable. Sans guide, test d'INT ND 12 à chaque sortie de case — en cas d'échec, les PJ dérivent dans une case adjacente tirée au hasard.
+#### Le rythme de la journée
+
+Tirer chaque matin sur les tables de **Température** et de **Vent** ([[Voyager dans les sables]]).
+
+|Phase|Durée|Activité|
+|---|---|---|
+|Aube – milieu de matinée|~4h|Déplacement principal|
+|Milieu de matinée – mi-après-midi|~4h|Halte obligatoire|
+|Mi-après-midi – coucher du soleil|~2-3h|Déplacement secondaire (optionnel)|
+|Nuit|–|Camp, repos, garde|
+
+**Déplacement secondaire :** en fin d'après-midi, le groupe peut tenter de couvrir une case supplémentaire avant de s'arrêter pour la nuit. Le guide du groupe effectue un test de CON :
+
+- **À chameau — ND 12 :** succès = case traversée. Échec = demi-chemin parcouru, une ration supplémentaire consommée par PJ, niveau de danger de nuit passe à _risqué_.
+- **À pied — ND 15 :** succès = case traversée. Échec = demi-chemin parcouru, deux rations supplémentaires consommées par PJ, niveau de danger de nuit passe à _risqué_.
+
+**Chaleur :** par temps _très chaud_, les PJ consomment **une ration supplémentaire** ce jour. Par temps de _fournaise_, toute créature qui voyage subit **1d6 dégâts par heure**. Il est vivement déconseillé de voyager à ces heures.
+
+**Manque de rations :** un PJ peut survivre trois jours sans ration. Ensuite, il perd **1 point de CON par jour** et meurt à 0 en CON.
+
+**Manque d'eau :** le désert des Monts Silencieux impose une ration d'eau minimum par jour. Par temps _très chaud_, deux rations d'eau sont nécessaires. Les règles de manque s'appliquent dès le deuxième jour sans eau. Bassim le rappelle sans se lasser.
+#### Tempêtes de sable
+
+Sur un résultat de **2** à la table du Vent ([[Voyager dans les sables]]), une tempête de sable éclate et dure **1d4 jours**.
+
+- Déplacement impossible. Orientation impossible.
+- Tout PJ exposé sans abri subit **1d6 dégâts par heure**.
+- Avec Bassim : il ordonne de dresser les tentes dos au vent — les PJ qui l'écoutent sont en sécurité.
+- Sans guide : ND d'orientation **+3** pour le prochain test après la tempête.
+
+#### Rencontres aléatoires
+
+Lancer 1d6 au rythme indiqué. Sur un **1**, une rencontre se produit. Tirer 1d8 sur la table correspondante.
+
+##### Rencontres de jour
+
+_Zone peu sûre — test toutes les 3h_
+
+|d8|Rencontre|
+|---|---|
+|1|Tapis à l'ombre d'un affleurement rocheux, 1d3 [[Scorpion géant\|scorpions géants]] attaquent dès qu'on s'approche à portée courte. Peuvent être repérés par un test de SAG ND 12.|
+|2|Une meute de 1d4 [[Hyène\|hyènes]], attirées par l'odeur des provisions, suit le groupe à distance en attendant la nuit (cf. rencontre de nuit 1). Se disperse si l'une d'entre elles est tuée.|
+|3|Un PJ tiré au hasard voit le sol se dérober sous ses pieds (ou ceux de sa monture). Il s'agit de la galerie d'un [[Ankheg\|ankheg]] qui surgit du sol pour attaquer 1d4 rounds après. Il cible en premier les montures et échoue automatiquement son test de moral une fois avoir perdu la moitié de ses PV.|
+|4|1d4+2 elfes [[Siruul]] montés sur leurs chameaux argentés, à la recherche de [[Lirien Siruul\|Lirien]], la princesse disparue. Hostiles au premier abord (CHA ND 12 pour les calmer). Si les PJ ont déjà découvert le site de l'embuscade et leur en communiquent l'emplacement, les elfes les récompensent avec un trésor de niveau 1 (1 PX). Sinon, ils peuvent accompagner le groupe un moment — et constituer une protection bienvenue lors de la prochaine rencontre.|
+|5|Une caravane de marchands apparaît à portée longue, escortée par 1d4 mercenaires ([[Soldat\|soldats]] armés de lances et portant une armure de cuir). Ils prennent les PJ pour des bandits et se mettent en formation défensive. CHA ND 12 pour les convaincre de leurs bonnes intentions — en cas d'échec, les gardes attaquent. En cas de succès, les marchands peuvent vendre des rations et de l'eau (au double du prix habituel).|
+|6|Le sol tremble. Bassim hurle d'arrêter et de reculer. Une [[Bulette\|bulette]] ou un [[Ver pourpre\|ver pourpre]] passe à portée intermédiaire, indifférent au groupe si personne ne bouge. Tout PJ qui attaque ou fuit précipitamment devient une cible. Bassim conseille vivement de changer d'itinéraire : les PJ doivent choisir un autre hexagone de destination et se détourner de leur trajet initial.|
+|7|Un PJ tiré au hasard passe juste à côté d'un [[Cobra des sables\|cobra]] dissimulé dans un buisson — SAG ND 15 pour le repérer. Le serpent passe à l'attaque et tente de mordre le PJ ou sa monture. 1d8 de ses congénères émergent et se joignent au combat.|
+|8|1d3 [[Démon des dunes\|démons des dunes]] surgissent tels des mirages de chaleur à portée longue. Ils n'attaquent pas — ils observent, immobiles, pendant 1d4 rounds, puis disparaissent. Bassim crache par terre et accélère le pas sans commenter.|
+
+##### Rencontres de nuit
+
+_Zone risquée — test toutes les 2h_
+
+| d8  | Rencontre                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Une meute nocturne de 1d6 [[Hyène\|hyènes]] encercle le camp en silence avant d'attaquer — elles sont plus agressives que de jour. Le garde doit réussir un test de SAG ND 12 pour les entendre approcher, sinon le groupe est surpris. Fuient si elles perdent la moitié des leurs.                                                                                                                                       |
+| 2   | Un [[Démon des dunes\|démon des dunes]] rôde autour du camp toute la nuit sans jamais entrer. Son hurlement intermittent empêche le repos long : aucun PJ ne récupère de PV cette nuit. Si les PJ l'attaquent, il combat.                                                                                                                                                                                                  |
+| 3   | Une patrouille nocturne du gang de Wadim (1d6 [[Bandit\|bandits]]) a repéré le feu de camp des PJ. Ils tentent de s'introduire discrètement pour dérober armes, trésors ou rations — SAG ND 15 pour le garde pour les détecter. Ils fuient s'ils sont découverts. Un bandit capturé peut révéler l'existence du temple, mais pas sa nature.                                                                                |
+| 4   | 1d3 [[Scorpion géant\|scorpions géants]] approchent silencieusement depuis plusieurs directions à la fois. Le garde doit réussir SAG ND 15 pour en repérer un avant qu'il attaque.                                                                                                                                                                                                                                         |
+| 5   | Un [[Tourbillon démoniaque\|tourbillon démoniaque]] traverse le camp tel une rafale. Le feu est éteint et les PJ plongés dans les ténèbres. Son passage a tué l'une des montures du groupe. Tant que le feu n'est pas rallumé, le niveau de rencontre est _meurtrier_.                                                                                                                                                     |
+| 6   | Une nuée de 2d6 [[Scorpion\|scorpions]] envahit le camp, attirée par la chaleur des corps. Chaque PJ endormi qui rate SAG ND 12 est mordu. Les montures s'affolent et se dispersent potentiellement — il faudra partir à leur recherche.                                                                                                                                                                                   |
+| 7   | **Le rêve de la Reine.** Tirer un PJ au sort. Il rêve d'une femme d'une beauté impossible aux yeux d'ambre, qui lui murmure quelque chose dans une langue inconnue. Il se réveille en sueur avec la certitude absolue que c'était important. Au même moment, le garde de nuit doit réussir un test de SAG ND 12 — en cas d'échec, un [[Serpent cobra\|cobra]] s'est faufilé dans le camp et tente de mordre le PJ endormi. |
+| 8   | **Vent du désert.** Pas de combat. Un vent glacial s'abat sur le camp sans prévenir. Les PJ doivent effectuer un test de CON ND 15 pour bénéficier des avantages d'un repos — avec avantage s'ils disposent d'équipement adéquat (couverture chaude, abri). En cas d'échec, une ration est consommée et le repos ne procure aucun bénéfice.                                                                                |
 ### Description des lieux
 
 

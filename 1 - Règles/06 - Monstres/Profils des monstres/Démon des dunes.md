@@ -1,4 +1,4 @@
-# Destrier de guerre
+# Démon des dunes
 #CS2 
 *Ces démons ressemblent à des elfes à la peau d’argile, à la bouche irrégulière mais sans aucun autre trait.*
 

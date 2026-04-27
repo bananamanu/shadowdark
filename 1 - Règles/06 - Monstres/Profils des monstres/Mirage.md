@@ -1,4 +1,4 @@
-# Héros
+# Mirage
 #CS2
 *Sinistres illusions que suscitent les rêves fébriles et les espoirs futiles.*
 
