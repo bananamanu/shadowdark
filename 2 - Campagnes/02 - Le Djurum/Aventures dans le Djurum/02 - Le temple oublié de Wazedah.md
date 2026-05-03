@@ -5,7 +5,7 @@ tags:
 campagne:
 ---
 
-# Le temple oublié de Wazedah
+# DJ 01 - Le temple oublié de Wazedah
 Une aventure de niveau 1–3 pour Shadowdark
 
 TODO : ajouter une citation sympa en rapport avec l'aventure
@@ -58,7 +58,11 @@ Le temple est loin d'être une simple cachette de bandits. Les PJ doivent y affr
 Là-haut, des mort-vivants en armure patrouillent encore, gardiens d'un secret que les fresques murales révèlent peu à peu : ce temple fut autrefois la prison d'une puissance terrifiante capturée par la Confrérie des siècles plus tôt. Wadim, guidé par les visions que lui a soufflées cette entité, l'a libérée. L'aventure s'achève sur un affrontement épique contre Wadim le Crochu, au-dessus d'un gouffre sans fond — et sur la découverte que quelque chose d'ancien et de maléfique rôde désormais librement dans le désert.
 
 ## Partie 1 — Sur la piste des bandits
+Un gang de voleurs a trahi la Guilde d'Alkesh et pris la fuite dans le désert des Monts Silencieux. La Guilde veut que le problème disparaisse — discrètement, sans laisser de traces qui remontent jusqu'à elle. Les PJ sont le bon outil pour ça : des inconnus, sans lien avec les factions de la ville, suffisamment capables et suffisamment peu regardants sur les détails.
 
+Cette partie couvre le **recrutement des PJ et le voyage jusqu'au temple** : l'entretien dans une taverne du Vieux Quartier, les préparatifs à Alkesh, et la traversée du désert. C'est un espace ouvert, hostile et généreux à la fois — il tue les imprudents et récompense les curieux. Les PJ y collectent des indices, croisent des témoins, et comprennent progressivement que Wadim n'est pas tout à fait le bandit ordinaire qu'on leur a décrit.
+
+**Note pour le MJ :** La partie 1 n'est pas un couloir vers le temple. Les PJ peuvent prendre la route sud ou nord, chercher le camp abandonné ou tomber directement sur la façade de Wazedah, sauver Darien ou passer leur chemin. Ce qu'ils apprennent ici détermine avec quelles informations ils franchissent l'arche du temple. Plus ils ont été curieux, moins ils seront surpris. Moins ils ont été curieux, plus ce sera intéressant.
 ### L'entretien
 
 Les PJ sont convoqués — ou se retrouvent par hasard — au **Joyau de Borak**, une taverne enfumée du Vieux Quartier d'Alkesh où aventuriers, mercenaires et gens de peu se côtoient chaque soir dans un brouhaha de rumeurs et de transactions douteuses. C'est là que [[Tawfiq]] tient sa cour. Conteur professionnel le soir, entremetteur discret le reste du temps, il est l'un de ces personnages qu'on ne remarque pas tout de suite mais qu'on finit toujours par retrouver là où quelque chose se trame. Il a été mandaté par un tiers — dont il ne révèlera jamais le nom — pour recruter des gens capables et discrets, sans lien avec les factions de la ville.
@@ -166,17 +170,26 @@ _— Suivez-moi et ne vous éloignez pas._
 
 ### Voyager dans le désert
 
-> _Voir [[Voyager dans les sables]] du Cursed Scroll 2 et [[12 - Voyage en extérieur|Voyage en extérieur]] du livre de règle de Shadowdark_
+> _Voir [[Voyager dans les sables]] du Cursed Scroll 2 et [[Voyage en extérieur]] du livre de règles de Shadowdark_
 
-#### L'itinéraire
+![[DJ01 - Carte du désert.jpg]]
+#### L'itinéraire : deux routes, un choix
 
-Le trajet entre [[Les sites du Djurum#709. Alkesh|Alkesh (709)]] et le premier camp des bandits ([[Les sites du Djurum#1208. Voleurs de Wadim|1208]]) couvre **5 cases hexagonales** de 10 km chacune. Le sable est un terrain difficile — la durée de traversée est doublée.
+Le matin du départ, Bassim trace de mémoire un croquis rapide sur son bout de tissu et présente les deux options sans dramaturgie particulière.
 
-**Avec Bassim et des chameaux :** une case toutes les 4h. Avec la halte obligatoire aux heures de fournaise, les PJ couvrent **2 cases par jour**. Durée totale : **2 à 3 jours**.
+_— Il y a deux façons d'aller là-bas. Par le sud, on longe une vieille piste de caravane. Je la connais bien — il y a des ruines à mi-chemin pour passer la nuit, et une oasis avant d'arriver dans les contreforts. C'est plus long d'une demi-journée. Par le nord, c'est plus droit. Je la fréquente moins — moins de sources, terrain plus incertain. Mais on gagne du temps._
 
-**Sans monture :** une case toutes les 8h, soit **1 case par jour** au mieux. Durée totale : **5 jours** — avec les provisions en conséquence.
+_Il roule le tissu et le glisse dans sa ceinture._
 
-Bassim suit l'itinéraire suivant : **709 → 809 → 909 → 1009 → 1109 → 1208**. Avec lui, aucun test d'orientation n'est nécessaire sauf en cas de tempête de sable. Sans guide, test d'INT ND 12 à chaque sortie de case — en cas d'échec, les PJ dérivent dans une case adjacente tirée au hasard.
+_— À vous de voir._
+
+| Route    | Cases                      | Durée (chameau) | Caractéristiques                                                                                                                                                           |
+| -------- | -------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sud**  | 709→809→910→1010→1110→1209 | ~3 jours        | Terrain connu de Bassim. Abri au caravansérail (zone C), eau à l'oasis de Magani (zone D). Rencontres aléatoires standard.                                                 |
+| **Nord** | 709→809→909→1009→1109→1209 | ~2,5 jours      | Terrain moins familier. Pas de source connue. Bassim n'a pas d'avantage aux tests d'orientation sur cette route. Rencontres aléatoires : test toutes les 2h au lieu de 3h. |
+
+Les deux routes convergent en **1209**, à une case du premier hexagone de la zone de recherche.
+
 #### Le rythme de la journée
 
 Tirer chaque matin sur les tables de **Température** et de **Vent** ([[Voyager dans les sables]]).
@@ -198,6 +211,8 @@ Tirer chaque matin sur les tables de **Température** et de **Vent** ([[Voyager 
 **Manque de rations :** un PJ peut survivre trois jours sans ration. Ensuite, il perd **1 point de CON par jour** et meurt à 0 en CON.
 
 **Manque d'eau :** le désert des Monts Silencieux impose une ration d'eau minimum par jour. Par temps _très chaud_, deux rations d'eau sont nécessaires. Les règles de manque s'appliquent dès le deuxième jour sans eau. Bassim le rappelle sans se lasser.
+
+
 #### Tempêtes de sable
 
 Sur un résultat de **2** à la table du Vent ([[Voyager dans les sables]]), une tempête de sable éclate et dure **1d4 jours**.
@@ -207,13 +222,14 @@ Sur un résultat de **2** à la table du Vent ([[Voyager dans les sables]]), une
 - Avec Bassim : il ordonne de dresser les tentes dos au vent — les PJ qui l'écoutent sont en sécurité.
 - Sans guide : ND d'orientation **+3** pour le prochain test après la tempête.
 
+
 #### Rencontres aléatoires
 
 Lancer 1d6 au rythme indiqué. Sur un **1**, une rencontre se produit. Tirer 1d8 sur la table correspondante.
 
 ##### Rencontres de jour
 
-_Zone peu sûre — test toutes les 3h_
+_Zone peu sûre — test toutes les 3h (toutes les 2h sur la route nord)_
 
 |d8|Rencontre|
 |---|---|
@@ -230,27 +246,269 @@ _Zone peu sûre — test toutes les 3h_
 
 _Zone risquée — test toutes les 2h_
 
-| d8  | Rencontre                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Une meute nocturne de 1d6 [[Hyène\|hyènes]] encercle le camp en silence avant d'attaquer — elles sont plus agressives que de jour. Le garde doit réussir un test de SAG ND 12 pour les entendre approcher, sinon le groupe est surpris. Fuient si elles perdent la moitié des leurs.                                                                                                                                       |
-| 2   | Un [[Démon des dunes\|démon des dunes]] rôde autour du camp toute la nuit sans jamais entrer. Son hurlement intermittent empêche le repos long : aucun PJ ne récupère de PV cette nuit. Si les PJ l'attaquent, il combat.                                                                                                                                                                                                  |
-| 3   | Une patrouille nocturne du gang de Wadim (1d6 [[Bandit\|bandits]]) a repéré le feu de camp des PJ. Ils tentent de s'introduire discrètement pour dérober armes, trésors ou rations — SAG ND 15 pour le garde pour les détecter. Ils fuient s'ils sont découverts. Un bandit capturé peut révéler l'existence du temple, mais pas sa nature.                                                                                |
-| 4   | 1d3 [[Scorpion géant\|scorpions géants]] approchent silencieusement depuis plusieurs directions à la fois. Le garde doit réussir SAG ND 15 pour en repérer un avant qu'il attaque.                                                                                                                                                                                                                                         |
-| 5   | Un [[Tourbillon démoniaque\|tourbillon démoniaque]] traverse le camp tel une rafale. Le feu est éteint et les PJ plongés dans les ténèbres. Son passage a tué l'une des montures du groupe. Tant que le feu n'est pas rallumé, le niveau de rencontre est _meurtrier_.                                                                                                                                                     |
-| 6   | Une nuée de 2d6 [[Scorpion\|scorpions]] envahit le camp, attirée par la chaleur des corps. Chaque PJ endormi qui rate SAG ND 12 est mordu. Les montures s'affolent et se dispersent potentiellement — il faudra partir à leur recherche.                                                                                                                                                                                   |
-| 7   | **Le rêve de la Reine.** Tirer un PJ au sort. Il rêve d'une femme d'une beauté impossible aux yeux d'ambre, qui lui murmure quelque chose dans une langue inconnue. Il se réveille en sueur avec la certitude absolue que c'était important. Au même moment, le garde de nuit doit réussir un test de SAG ND 12 — en cas d'échec, un [[Serpent cobra\|cobra]] s'est faufilé dans le camp et tente de mordre le PJ endormi. |
-| 8   | **Vent du désert.** Pas de combat. Un vent glacial s'abat sur le camp sans prévenir. Les PJ doivent effectuer un test de CON ND 15 pour bénéficier des avantages d'un repos — avec avantage s'ils disposent d'équipement adéquat (couverture chaude, abri). En cas d'échec, une ration est consommée et le repos ne procure aucun bénéfice.                                                                                |
-### Description des lieux
+|d8|Rencontre|
+|---|---|
+|1|Une meute nocturne de 1d6 [[Hyène\|hyènes]] encercle le camp en silence avant d'attaquer — elles sont plus agressives que de jour. Le garde doit réussir un test de SAG ND 12 pour les entendre approcher, sinon le groupe est surpris. Fuient si elles perdent la moitié des leurs.|
+|2|Un [[Démon des dunes\|démon des dunes]] rôde autour du camp toute la nuit sans jamais entrer. Son hurlement intermittent empêche le repos long : aucun PJ ne récupère de PV cette nuit. Si les PJ l'attaquent, il combat.|
+|3|Une patrouille nocturne du gang de Wadim (1d6 [[Bandit\|bandits]]) a repéré le feu de camp des PJ. Ils tentent de s'introduire discrètement pour dérober armes, trésors ou rations — SAG ND 15 pour le garde pour les détecter. Ils fuient s'ils sont découverts. Un bandit capturé peut révéler l'existence du temple, mais pas sa nature.|
+|4|1d3 [[Scorpion géant\|scorpions géants]] approchent silencieusement depuis plusieurs directions à la fois. Le garde doit réussir SAG ND 15 pour en repérer un avant qu'il attaque.|
+|5|Un [[Tourbillon démoniaque\|tourbillon démoniaque]] traverse le camp tel une rafale. Le feu est éteint et les PJ plongés dans les ténèbres. Son passage a tué l'une des montures du groupe. Tant que le feu n'est pas rallumé, le niveau de rencontre est _meurtrier_.|
+|6|Une nuée de 2d6 [[Scorpion\|scorpions]] envahit le camp, attirée par la chaleur des corps. Chaque PJ endormi qui rate SAG ND 12 est mordu. Les montures s'affolent et se dispersent potentiellement — il faudra partir à leur recherche.|
+|7|**Le rêve de la Reine.** Tirer un PJ au sort. Il rêve d'une femme d'une beauté impossible aux yeux d'ambre, qui lui murmure quelque chose dans une langue inconnue. Il se réveille en sueur avec la certitude absolue que c'était important. Au même moment, le garde de nuit doit réussir un test de SAG ND 12 — en cas d'échec, un [[Serpent cobra\|cobra]] s'est faufilé dans le camp et tente de mordre le PJ endormi.|
+|8|**Vent du désert.** Pas de combat. Un vent glacial s'abat sur le camp sans prévenir. Les PJ doivent effectuer un test de CON ND 15 pour bénéficier des avantages d'un repos — avec avantage s'ils disposent d'équipement adéquat (couverture chaude, abri). En cas d'échec, une ration est consommée et le repos ne procure aucun bénéfice.|
 
+#### La zone de recherche
 
+Tawfiq  a informé les PJ  que Wadim et ses hommes se sont enfoncés dans les contreforts est des Monts Silencieux. C'est tout ce qu'il peut donner. Les PJ disposent donc d'une zone approximative de quatre hexagones à couvrir : **1109, 1209, 1208 et 1308**. Un arc de cercle qui longe le pied des montagnes.
+
+À l'intérieur de cette zone, le camp abandonné se trouve en **zone E (1208)**. Les PJ ne le savent pas.
+
+##### Resserrer la zone
+
+Avant même d'entrer dans les contreforts, les PJ peuvent affiner leur recherche. Deux sources d'information peuvent réduire la zone à **deux hexagones** (1208 et 1308) et accorder un **avantage aux tests de recherche** :
+
+- **Les nomades** — en rencontre aléatoire ou à l'oasis de Magani, des nomades ont subi des attaques ou croisé la troupe de Wadim. Ils peuvent indiquer une direction précise, décrire une fumée aperçue au loin, ou mentionner un col particulier. Un test de **CHA ND 9** suffit pour les mettre en confiance ; ils parlent volontiers si les PJ semblent honnêtes.
+- **Les marchands** — même source potentielle, avec un test de **CHA ND 12** (ils sont plus méfiants).
+
+##### Entrer dans un hexagone : la recherche
+
+Lorsque les PJ pénètrent dans l'un des hexagones de la zone, ils peuvent décider d'**entreprendre une recherche active** plutôt que de simplement traverser. La recherche prend **une demi-journée** (la durée d'une phase de déplacement), consomme les rations normalement, et déclenche un **test de rencontre aléatoire toutes les 2h** au lieu de 3h.
+
+À l'issue de la demi-journée, un PJ effectue un test au choix :
+
+- **SAG ND 12** (pistage, observation : empreintes, traces de feu, déchets)
+- **INT ND 12** (lecture du terrain : logique d'installation, zones d'ombre, points d'eau)
+
+**Modificateurs :**
+
+- Les PJ ont obtenu des informations des nomades ou des marchands : **avantage**
+- Bassim participe activement à la recherche : **+2** au résultat
+- Hexagone déjà parcouru sans succès un jour précédent : **+2** (le terrain commence à être connu)
+
+##### Indices progressifs
+
+Que la recherche réussisse ou non, les PJ accumulent des indices au fil des hexagones explorés. Ces indices s'intensifient à mesure qu'ils se rapprochent du bon hexagone — le MJ les distribue librement selon la position des PJ.
+
+| Distance au camp          | Indices possibles                                                                                                                                                                                                                                         |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hexagone éloigné**      | Des déchets épars dans le sable — un bout de tissu, des os de volaille rongés, les cendres d'un feu vieux de plusieurs semaines. Des nomades qui évitent ostensiblement de regarder vers l'est.                                                           |
+| **Hexagone adjacent**     | Des empreintes de sandales en nombre, mal effacées par le vent. Une corde de tente abandonnée. Un piquet arraché à la hâte. Un marchand croisé qui a _changé d'itinéraire_ il y a dix jours pour éviter "des hommes peu recommandables vers les rochers". |
+| **Bon hexagone** (zone E) | Les restes évidents d'un campement de grande taille — emplacements de tentes, foyer central, déchets en quantité. _Voir description de la zone E._                                                                                                        |
+
+##### Résultats de la recherche
+
+**Succès sur le bon hexagone (1208) :** les PJ trouvent le camp abandonné. La suite coule de source — _voir description de la zone E_.
+
+**Échec sur n'importe quel hexagone :** la recherche a attiré l'attention ou épuisé la vigilance du groupe. **Une rencontre aléatoire se déclenche immédiatement**, tirée sur la table de jour. Les indices progressifs s'accumulent néanmoins — la recherche n'est pas vaine, elle coûte juste.
+
+**Échec sur le bon hexagone (zone E) :** les PJ sentent qu'ils sont proches — ils trouvent des indices de niveau _hexagone adjacent_, pas le camp lui-même. Ils peuvent retenter le lendemain avec **+2 au test**. La rencontre aléatoire s'applique normalement.
+
+##### Depuis le camp jusqu'au temple
+
+Une fois le camp découvert, remonter la piste jusqu'au temple est **automatique**. Les empreintes d'une vingtaine d'hommes et de plusieurs chameaux, jointes aux déchets laissés en chemin, forment une piste lisible même pour un œil non exercé. Bassim l'identifie en quelques minutes et prend la tête sans commentaire. La marche jusqu'en **zone F (1309)** représente une case supplémentaire — une demi-journée au rythme habituel.
+
+> **Les PJ peuvent-ils trouver accidentellement le temple ?**
+> 
+> Des PJ qui ratent leur test d'orientation  ou qui décident délibérément de s'enfoncer dans les contreforts, peuvent tomber sur la façade du temple de Wazedah directement — _voir description de la zone F_. Dans ce cas, ils arrivent sans les informations collectées au camp abandonné : effectifs inconnus, nature du lieu ignorée, piste de Wadim non établie. Le temple peut aussi être aperçu depuis l'hexagone 1209 par un PJ qui réussit un test de **SAG ND 15** au coucher du soleil — un reflet sur la pierre taillée, une façade trop régulière pour être naturelle dans la falaise.
+
+ ### Description des lieux
+
+#### A — Les vautours du désert
+
+_( hexagones 908, 909, 1007, 1008, 1108, 1109)_
+
+> _Dans le ciel blanc de chaleur, des silhouettes noires tournent lentement. Elles ne sont pas pressées. Ce qui les intéresse ne va nulle part._
+
+Ces six hexagones n'ont pas de site particulier, mais les PJ qui empruntent la route nord les traversent, et ceux qui s'engagent dans la zone de recherche en longent forcément certains. Dans les deux cas, le ciel fait office de signal.
+
+Au-dessus de l'horizon, deux à trois nuées de vautours décrivent des spirales larges et régulières — la danse caractéristique de charognards qui ont trouvé quelque chose de suffisamment important pour se disputer, mais pas assez urgent pour descendre immédiatement. L'une des nuées, au nord-est, est plus dense : une douzaine d'oiseaux au moins.
+
+Bassim les remarque sans commentaire. Si les PJ lui posent la question, il répond sans s'arrêter :
+
+_— Des vautours qui tournent. Soit une bête morte. Soit quelque chose de plus gros. On verra._
+
+Un test de **SAG ND 12** permet d'estimer la direction approximative de la nuée la plus dense — elle tourne au-dessus de la **zone B (1108)**, le site de l'embuscade. Les PJ qui s'y rendent trouveront ce qu'ils cherchent — ou plus qu'ils ne le souhaitaient.
+
+#### B — Le site de l'embuscade
+
+_(hexagone 1008)_
+
+> _Le sable, ici, a une couleur différente. Plus sombre, par endroits, là où quelque chose a été absorbé. L'air sent le brûlé, le cuivre, et autre chose que vous préférez ne pas nommer._
+
+La scène se lit clairement pour qui prend le temps de la regarder. Deux chameaux argentés morts, encore harnachés — l'un d'eux percé de deux carreaux d'arbalète. Un cercle de feu éteint et de suie où quelque chose a brûlé (des bagages, probablement). Des traces de lutte dans le sable, des impacts de lame sur un rocher. Et, à l'écart, trois elfes morts — deux hommes et une femme — désarmés et dépouillés, les mains liées dans le dos.
+
+Et puis, un quatrième. Celui-là respire encore — à peine.
+
+##### L'elfe mourant
+
+Allongé à l'ombre maigre d'un rocher, un elfe siruul est en vie mais dans un état critique. Il a reçu plusieurs coups, perdu beaucoup de sang. Sans intervention rapide, il ne passera pas l'heure.
+
+**Soigner l'elfe :** un test de **SAG ND 12** (ou l'utilisation d'un sort de soin) stabilise le blessé. En cas d'échec, une nouvelle tentative est possible mais chaque round perdu compte — les vautours, eux, ont déjà remarqué le groupe.
+
+##### Les vautours
+
+**2d4 [[Vautour|vautours]]** occupent les carcasses de chameaux et les abords immédiats du site. À l'arrivée des PJ, ils s'écartent à contrecœur mais ne s'envolent pas — ils attendent, patients, que les intrus repartent. Si les PJ s'attardent plus de **1d4 rounds** sans les chasser activement, ou s'ils s'approchent de l'elfe mourant, les vautours passent à l'attaque. Ils ne fuient pas tant qu'au moins l'un d'entre eux est encore debout.
+##### Ce que l'elfe peut raconter
+
+Une fois stabilisé et suffisamment lucide pour parler — ce qui prend un quart d'heure et une outre d'eau — l'elfe se présente : il s'appelle **Darien**, garde du corps de la suite de la princesse Lirien Siruul. Il parle par fragments, en reprenant son souffle entre les phrases.
+
+_— Ils sont venus du nord. Une vingtaine, peut-être plus. Ils savaient où nous étions — ils nous attendaient._
+
+_— Lirien... ils l'ont prise vivante. Les autres aussi. Ceux qui résistaient..._
+
+_Il jette un regard vers les corps liés._
+
+_— Ils sont partis vers l'est. Vers les rochers. J'ai essayé de les suivre. Je n'ai pas pu aller loin._
+
+Il peut confirmer la direction des ravisseurs — **vers 1108, puis dans les contreforts** — et décrire sommairement Wadim : un homme au crochet de métal à la place de la main droite, qui commandait sans élever la voix.
+
+**Darien comme personnage de remplacement :** si l'un des PJ vient à mourir, Darien est un candidat naturel. Guerrier elfe, motivé par la vengeance et le devoir, il connaît suffisamment la région pour être utile — et il a une raison personnelle d'aller jusqu'au bout.
+
+##### Indices pour la suite
+
+- Un test de **SAG ND 12** permet de relever les traces des assaillants, qui repartent vers le nord-est en direction de **zone E**  (hexagone **1108** puis **1208**). La piste est large — une vingtaine d'hommes et plusieurs chameaux — et relativement fraîche.
+- Un test de **SAG ND 15** ou **INT ND 15** (formation militaire) permet de reconstituer le déroulement : l'embuscade venait du nord, depuis les rochers. Les Siruul ont riposté — un attaquant humain a saigné ici, en quantité notable.
+- Parmi les morts, l'un des elfes porte un anneau de bronze gravé d'un croissant de lune — l'insigne des gardes du corps de la maison princière Siruul. Un PJ qui connaît les coutumes elfes ou réussit un test d'**INT ND 15** le reconnaît.
+
+##### Rencontrer d'autres elfes siruul
+
+Si les PJ croisent plus tard un groupe d'elfes Siruul en recherche _(rencontre aléatoire de jour, résultat 4 ou bien encore à l'oasis de Mangani)_, le rapport détaillé de ce qui s'est passé ici — et la présence éventuelle de Darien — suffisent à convaincre les elfes de coopérer sans test de CHA. Ils récompensent les PJ d'un **trésor de niveau 1 (1 PX)** et peuvent, si les PJ n'ont pas encore localisé le camp, leur communiquer les informations qu'ils ont eux-mêmes collectées sur les mouvements du gang — ce qui vaut les mêmes avantages qu'un témoignage de nomade pour la zone de recherche.
+#### C — Les ruines du caravansérail
+
+_(hexagone 910)_
+
+> _Quatre murs de pisé à moitié effondrés, une arche centrale dont la clé de voûte a disparu, quelques anneaux de fer rouillés encore scellés dans la pierre. Il y a eu ici, un jour, un lieu de halte. Ce n'est plus qu'une carcasse que le désert digère lentement._
+
+Le caravansérail était autrefois un relais sur la piste qui reliait Alkesh à l'oasis de Magani — une étape connue de tous les guides, suffisamment solide pour résister aux tempêtes et suffisamment fréquentée pour décourager les bandits. Puis les attaques ont commencé. Des démons des dunes, encore et encore, ciblant ce site avec une insistance que personne ne s'expliquait. Pas une nuit de repos pour quiconque y bivouaquait. Les caravanes ont changé leurs routes. Le caravansérail est tombé à l'abandon.
+
+Le site se compose d'une cour centrale ouverte, de deux salles latérales sans toit, et d'une citerne asséchée. Les murs encore debout offrent une ombre réelle et un abri contre le vent — ce qui en fait une halte acceptable le jour, et un piège la nuit.
+
+##### De jour : un abri, rien de plus
+
+Le caravansérail est silencieux. Trop silencieux — pas d'insectes, pas de lézards sur les pierres chaudes. Mais il n'y a rien d'hostile. Les salles latérales sont vides à l'exception de quelques débris et d'ossements à moitié ensevelis dans le sable — des voyageurs pris un par un au fil des années, dont les corps sont restés là faute de témoin. On en compte une quinzaine au moins, humains pour la plupart. Personne n'est venu les enterrer.
+
+**Ce que les PJ peuvent remarquer :**
+
+- Les murs intérieurs portent des gravures — géométriques, précises, manifestement très anciennes. Elles ne ressemblent pas à du travail humain. Un PJ lettré ou un elfe qui réussit un test d'**INT ND 15** les reconnaît comme pré-sultanesques, d'une culture dont il ne sait presque rien.
+- Au fond de la citerne asséchée, sous une couche de sable et de déchets, une **trappe de pierre** est scellée par un verrou dont la serrure représente un croissant de lune. Elle ne s'ouvre pas — du moins pas facilement, et pas sans la bonne clé. Ce qu'il y a en dessous reste sans réponse pour l'instant.
+- Bassim observe la citerne un long moment, puis s'en éloigne sans commentaire.
+
+Le lieu peut servir d'abri lors d'une halte de milieu de journée, ou en cas de chaleur extrême. Si les PJ évoquent la possibilité d'y bivouaquer, Bassim secoue la tête et crache par terre.
+
+_— Mauvais endroit pour dormir._
+
+C'est tout ce qu'il dira. Si les PJ insistent ou passent outre, il installe son campement sans un mot de plus — mais il ne dort pas, et il garde son cimeterre à portée de main.
+
+##### De nuit : les morts se lèvent
+
+Les PJ qui bivouaquent au caravansérail — par choix, par épuisement ou parce qu'une tempête les y contraint — découvrent que l'endroit méritait sa mauvaise réputation.
+
+À la **deuxième heure après le coucher du soleil**, le sable de la cour commence à se mouvoir. Lentement d'abord — des frémissements, des craquements sourds sous la surface. Puis les mains apparaissent, osseuses, griffant vers le haut. **1d6+2 [[Squelette|squelettes]]** émergent du sable et de la citerne, portant encore les restes de leurs vêtements de voyage. Ils attaquent sans hésitation tout ce qui respire.
+
+Chaque heure suivante, **1d4 squelettes supplémentaires** surgissent jusqu'à ce que tous les morts du site aient été levés — quinze au total. Ils ne poursuivent pas au-delà des murs du caravansérail.
+
+**Ce que les PJ peuvent observer :** les squelettes ne se comportent pas tout à fait comme des morts-vivants ordinaires. Certains semblent hésiter, regarder autour d'eux, comme s'ils cherchaient quelque chose avant de se retourner vers les vivants. Ce détail est laissé sans explication.
+
+Ce qui anime ces morts et attire les démons des dunes vers ce site précis est lié à ce qui se trouve sous la trappe — quelque chose d'ancien, de profondément enfoui, dont la nature reste pour l'instant sans nom.
+
+> **Ce qui se trouve en dessous** La trappe de la citerne donne sur un complexe souterrain dont l'origine et l'étendue sont inconnues. Des indices épars — les gravures, la serrure en croissant de lune, l'attraction qu'il exerce sur les créatures du Val de la Lune — suggèrent un lien avec les Grandes Portes et ce qui se trouve derrière. À développer.
 ---
 
-## Partie 2 — Le Temple de Wazedah
+#### D — L'oasis de Magani
 
+_(hexagone 1110)_
+
+> _L'eau est là, réelle, impossible presque — un miroir bleu-vert posé à plat dans le sable rouge. Des palmiers-dattiers la ceignent d'une ombre fraîche. L'air sent l'humide, la menthe sauvage et la boue propre. Après des jours de désert, c'est presque insupportable de beauté._
+
+L'oasis de Magani est connue de tous les guides et des nomades des Monts Silencieux. Sa position légèrement excentrée par rapport aux grandes routes caravanières fait qu'elle est moins fréquentée qu'elle ne le mériterait — mais ceux qui la connaissent y reviennent toujours. Bassim la connaît depuis l'enfance. Il s'y arrête sans qu'on le lui demande.
+
+##### Le point d'eau
+
+Un bassin bleu-vert de six mètres de diamètre, entouré de roseaux et de palmiers-dattiers. L'eau est fraîche et potable — Bassim la boit sans hésiter, ce qui est son meilleur certificat de qualité. Un puits maçonné d'époque ancienne, encore fonctionnel, permet de remplir des outres sans patauger dans le bassin. Ce qui est fortement déconseillé, d'ailleurs.
+
+##### Le Patron
+
+**Le Patron** est un [[hippopotame]] adulte d'humeur exécrable qui considère le bassin comme sa propriété personnelle et exclusive. Il tolère — à peine — les voyageurs qui s'approchent du puits et des roseaux. Quiconque entre dans l'eau, ou s'en approche à moins de deux mètres, déclenche une charge immédiate sans avertissement préalable.
+
+Bassim  prévient les PJ d'un geste de la main en direction du bassin avant de mettre pied à terre. Si les PJ insistent pour savoir de quoi il parle, il désigne le bassin d'un mouvement de menton. On peut apercevoir, dans les roseaux, deux petites oreilles rondes et deux yeux jaunes qui observent.
+
+**Ce que les PJ plus téméraires pourraient découvrir :** au fond du bassin, visible par temps calme depuis la berge, quelque chose luit faiblement dans la vase. C'est **Brûlesoleil**, un *cimeterre + 1* au fil d'or qui dort là depuis des années, ignoré de tous sauf peut-être du Patron. Une fois par jour, il peut émettre un éclair de lumière aveuglante pendant un round. Le récupérer sans se faire tuer est un problème que les PJ devront résoudre eux-mêmes.
+
+##### Qui d'autre est là ?
+
+L'oasis accueille presque toujours du monde. Tirer **2d12** pour le nombre de voyageurs présents à l'arrivée des PJ. Parmi eux, tirer sur la table suivante pour déterminer leur nature :
+
+|d6|Présents à l'oasis|
+|---|---|
+|1-2|Des **nomades du désert** — une famille ou un petit groupe, non hostiles mais méfiants. Ils ont croisé ou subi les voleurs de Wadim. Avec un test de **CHA ND 10**, ils partagent ce qu'ils savent : une direction, une fumée aperçue, des hommes armés vers les contreforts. Cela vaut les mêmes avantages qu'un témoignage pour la zone de recherche.|
+|3|Des **elfes Siruul** — 1d4+2, à la recherche de la princesse Lirien. Hostiles au premier abord (CHA ND 12 pour les calmer). Si les PJ ont visité le site de l'embuscade et peuvent en témoigner — ou mieux, s'ils ont Darien avec eux — les elfes coopèrent sans test et récompensent les PJ d'un **trésor de niveau 1 (1 PX)**. Ils peuvent également affiner la zone de recherche.|
+|4-5|Des **marchands** avec une escorte légère, qui font halte avant de repartir vers Alkesh. Ils ont changé d'itinéraire récemment pour éviter "des hommes peu recommandables vers les rochers". CHA ND 12 pour obtenir des détails utiles.|
+|6|L'oasis est **déserte** — rien que le Patron et le silence.|
+
+#### E — Le camp abandonné
+
+_(hexagone 1208)_
+
+> _Des piquets de tente arrachés à la hâte. Des cendres froides. L'odeur de transpiration et de quelque chose de plus âcre — précipitation, peut-être, ou peur. Quelqu'un vivait ici. Il y a peu. Et il est reparti sans prendre le temps de tout emporter._
+
+C'est l'ancien camp du gang de Wadim, établi ici juste après la fuite d'Alkesh, avant que les visions du chef ne les poussent vers le temple. Il a été quitté plusieurs semaines plus tôt, mais le désert sec a bien conservé les traces.
+
+##### Ce que les PJ peuvent observer
+
+Le camp a accueilli une vingtaine d'hommes. On distingue les emplacements des tentes, un foyer central, une zone à l'écart qui servait de latrine. Quelques objets ont été abandonnés dans la précipitation :
+
+- Un **parchemin froissé** — une liste de noms, certains barrés d'un trait de plume. Ce sont les membres du gang, avec en marge des notes chiffrées (des dettes, des parts à distribuer). Les PJ qui prennent le temps de l'étudier peuvent compter : dix-neuf noms au total, dont quatre barrés. Les barrés sont morts depuis Alkesh.
+- Au centre du camp, dans les cendres du foyer, les traces d'un brûlage délibéré — du papier ou du tissu, détruit volontairement. On ne peut rien en tirer.
+- **Sous une pierre plate** à l'écart des tentes : un coffret en bois de cèdre, dissimulé sous le sable par quelqu'un qui comptait revenir le chercher. Il contient **15 po**, une **dague de qualité** (5 po) et un **médaillon de cuivre** ouvragé. **(Trésor niveau 1 — 1 PX)**
+
+##### Indices pour la suite
+
+- Les pistes partent vers le sud est, dans la direction des Monts Silencieux. La trace est large — une vingtaine d'hommes et des chameaux — et Bassim peut la suivre sans test.
+- Parmi les empreintes, on distingue celles d'au moins deux personnes aux pieds liés, traînant lourdement dans le sable. Les survivants de l'embuscade Siruul.
+- Si les PJ observent la zone au coucher du soleil, dans la bonne direction, ils peuvent apercevoir à portée longue un reflet étrange dans les falaises à l'est — la lumière qui joue sur une façade de pierre taillée. **(SAG ND 15)**
+
+##### Depuis le camp jusqu'au temple
+
+Remonter la piste est **automatique**. Les empreintes d'une vingtaine d'hommes et de plusieurs chameaux, jointes aux déchets laissés en chemin, forment une piste lisible même pour un œil non exercé. Bassim l'identifie en quelques minutes et prend la tête sans commentaire. La marche jusqu'à la **zone F (1309)** représente une case supplémentaire — une demi-journée au rythme habituel.
+
+#### F — Le temple de Wazedah
+
+_(hexagone 1309)_
+
+> _Deux tours émergent de la falaise rouge qui se toruve devant vous — l'une encore debout, l'autre effondrée sur elle-même comme sous le poids des siècles. Entre elles, une enceinte de pierre taillée se détache de la roche avant de s'y fondre à nouveau, avalée par la montagne. Une arche en plein cintre, couverte d'arabesques, encadre une ouverture haute et sombre. Des symboles couvrent les murs jusqu'à quatre mètres de hauteur. Et au-dessus de l'arche, regardant vers le désert depuis des siècles, un œil gravé dans la pierre — un œil ouvert, parfaitement centré._
+
+Ce qui se trouve ici est décrit dans la **Partie 2 — Le Temple de Wazedah**.
+## Partie 2 — Le Temple de Wazedah
+Le temple de Wazedah n'est pas un repaire de bandits — c'est ce qu'il est devenu, faute de mieux, pour une vingtaine d'hommes qui fuyaient et qui ont trouvé une porte ouverte.
+
+Ce lieu a deux visages. Le premier est visible, bruyant, humain : des hommes armés qui boivent, qui dorment, qui s'ennuient et qui obéissent à un chef qu'ils comprennent de moins en moins. Le second est silencieux, ancien, et attend au-dessus de leurs têtes. Les voleurs ne savent pas ce qu'ils gardent. Ils ne savent pas non plus ce qui les garde.
+
+Cette partie couvre le **temple visible** — la cour intérieure, les galeries, les salles occupées par le gang de Wadim. C'est ici que les PJ affrontent les sbires, découvrent les esclaves, et commencent à comprendre que leur mission initiale n'était que la surface des choses. Le passage vers les **Galeries Supérieures** se trouve dans la bibliothèque de la Confrérie. Les PJ y arriveront quand ils seront prêts. Ou avant.
+
+> **Note pour le MJ :** Le temple fonctionne comme un lieu vivant. Les voleurs circulent, réagissent, se parlent. Le bruit porte dans la pierre. Une alarme donnée dans la cour change la situation dans les galeries. Gérer ce lieu, c'est gérer un état d'alerte qui évolue — pas un plan statique.
 ### Historique du temple
 
-### Situation actuelle
+Le temple de Wazedah fut érigé par la Confrérie Ashir Bel Dhekran à flanc de falaise, dans les contreforts des Monts Silencieux, à une journée de marche du Val de la Lune. Ce n'est pas un hasard. Le Val — cette vallée de sable blanc où la lune brille à midi et d'où s'infiltrent dans le monde les démons des dunes — était l'objet d'étude central de la Confrérie, et sa menace principale. Le temple fut à la fois un observatoire et un verrou : les moines y étudiaient les brèches dans la réalité, y contenaient les excursions de créatures, et maintenaient une présence permanente sur ce seuil entre le monde et ce qui se trouve derrière.
 
+Puis vint Jathibiyya.
+
+Lorsque la Reine des Serpents leva son armée et marcha sur Alkesh, la Confrérie comprit que ni la ville ni ses défenseurs ne pourraient la détruire — le Miroir de Pureté, seule arme capable de l'anéantir définitivement, était introuvable. Les moines firent ce qu'ils purent : utilisant les propriétés du regard de la Reine contre elle, ils la piégèrent dans une salle tapissée de miroirs au sommet du temple, la condamnant à une stase sans fin face à sa propre image. L'opération coûta la vie à plusieurs d'entre eux.
+
+La Confrérie survécut à cet acte — mais diminuée, épuisée, et peu à peu rongée par le temps. Ses membres ne furent jamais remplacés en nombre suffisant. Le savoir se perdit par fragments. Les derniers héritiers de l'ordre n'ont aujourd'hui plus qu'une connaissance lacunaire de ce que leurs ancêtres gardaient. Le temple, lui, tomba dans l'oubli. Les squelettes en armure qui patrouillent encore ses galeries supérieures obéissent à des ordres que personne ne se souvient d'avoir donnés.
+
+Seuls quelques érudits du Djurum savent que le temple existe. Aucun ne sait ce qu'il contient encore.
+### Situation actuelle
+Wadim est arrivé au temple guidé par les visions que lui soufflait la Reine — et il a fait ce qu'elle attendait de lui. Il a brisé le dernier miroir intact. Il a prononcé les mots. Il a regardé Jathibiyya se lever de sa stase et quitter la salle octogonale sans un regard en arrière, libre pour la première fois depuis des siècles. Avant de partir, elle lui a passé au poignet gauche un bracelet de bronze gravé de serpents entrelacés — un cadeau, ou une laisse. Puis elle est retournée vers sa pyramide dans les dunes, et Wadim ne l'a plus revue.
+
+Il l'attend encore.
+
+Ce qu'il a vu ce jour-là — la Reine dans toute sa présence, ses cheveux de couleuvres, son regard qui pèse sur l'esprit comme une dalle de pierre — a achevé ce que le venin du serpent avait commencé. Wadim n'est plus tout à fait là. Il parle à la Reine comme si elle était dans la pièce. Il entasse les richesses extorquées à ses victimes dans la salle octogonale, offrandes pour une déesse absente. Il utilise le bracelet sans avertissement sur quiconque pose une mauvaise question. Il croit toujours agir librement. C'est peut-être la part la plus triste de son état.
+
+Ses hommes s'adaptent comme ils peuvent. Une partie le suit encore — par peur, par habitude, ou parce que le temple est chaud et le butin réel. L'autre partie commence à douter en silence, rassemblée autour de Malchor qui observe, calcule, et n'agit pas encore. La ligne entre les deux camps est invisible mais tout le monde la sent.
+
+Dans ce climat, Wadim a noué un accord avec une tribu de gnolls esclavagistes des environs. Le commerce est simple : des captifs contre de l'or. Quelques livraisons ont déjà eu lieu — dont un elfe siruul, fiancé d'une princesse, vendu sans que Wadim sache ou se soucie de qui il était. Aujourd'hui, Khara est présente en personne pour sceller un partenariat durable. Sa délégation occupe une partie du temple avec l'aisance de gens qui savent qu'on a besoin d'eux. Les voleurs les tolèrent. Personne ne les aime.
+
+Les esclaves encore présents — une poignée de captifs enchaînés dans l'ancienne salle de prière — attendent leur sort sans savoir lequel arrivera en premier : la vente, la mort, ou quelqu'un qui ouvre leur cellule.
 ### Tactique des voleurs en cas d'intrusion
 
 ### Table de rencontres aléatoires
