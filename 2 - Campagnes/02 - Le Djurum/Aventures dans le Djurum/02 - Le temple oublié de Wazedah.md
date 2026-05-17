@@ -514,8 +514,7 @@ Les esclaves encore présents — une poignée de captifs enchaînés dans l'anc
 ### Table de rencontres aléatoires
 
 ### Description des zones
-
----
+![[Le temple de Wazedah - niveau 1.jpg]]
 
 ## Partie 3 — Les Galeries Supérieures
 
