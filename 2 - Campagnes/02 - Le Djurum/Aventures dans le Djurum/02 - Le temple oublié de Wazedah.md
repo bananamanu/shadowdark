@@ -515,6 +515,14 @@ Les esclaves encore présents — une poignée de captifs enchaînés dans l'anc
 
 ### Description des zones
 ![[Le temple de Wazedah - niveau 1.jpg]]
+#### 1. Porte d'entrée
+_Devant vous se dresse une arche de pierre ocre, couverte d'arabesques que le désert a usées sans les effacer. Au centre du linteau, un œil ouvert est gravé dans la roche. Il devait être peint auparavant mais il ne subsiste que quelques écailles bleu azur qui soulignait la partie inférieure de l'œil. Les portes de bois sombre qui vous font face sous l'arche sont fendillées, gercées par des années de soleil, mais elles tiennent. Deux anneaux de cuivres verdis se trouve à hauteur d'homme sur chaque vantaux._ 
+
+Les portes sont usées mais elles tiennent encore. Elles sont barrées de l'intérieur. Les forcer est possible mais ardu (_test de Force, ND 15_). En cas de succès, les gonds rouillés et la barre de bois rendent un vacarme suffisant pour alerter les occupants de la tour ouest et ceux qui se trouve dans la cour (zone 2 et 4). En cas d'échec, le bruit est identique — et les portes restent fermées.
+
+Les PJ peuvent tenter d'escalader les murs d'enceinte (_test de Dextérité, ND 12 avec l'équipement adéquat ou 15 sinon_) ou passer par la brèche de la tour est (zone 3), dont l'état d'effondrement partiel offre un accès discret mais non sans danger.
+
+**Les symboles sur la porte et l'œil.** Un *test d'Intelligence ND 12* permet  de reconnaître les arabesques et l'œil gravé comme des symboles liés au culte d'Ord. En dépassant le ND 15, on peut déduire d'après l'ensemble de l'iconographie — la sophistication des motifs, la rigueur de leur agencement — que cet endroit est bien plus qu'un simple lieu de culte. Ce temple devait être le siège d'un ordre versé dans le savoir et les connaissances ésotériques. Moines, scribes, ou peut-être quelque chose d'encore plus mystérieux.
 
 ## Partie 3 — Les Galeries Supérieures
 
