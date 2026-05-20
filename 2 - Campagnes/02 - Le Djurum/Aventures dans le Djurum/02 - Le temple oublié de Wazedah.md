@@ -518,12 +518,37 @@ Les esclaves encore présents — une poignée de captifs enchaînés dans l'anc
 #### 1. Porte d'entrée
 _Devant vous se dresse une arche de pierre ocre, couverte d'arabesques que le désert a usées sans les effacer. Au centre du linteau, un œil ouvert est gravé dans la roche. Il devait être peint auparavant mais il ne subsiste que quelques écailles bleu azur qui soulignait la partie inférieure de l'œil. Les portes de bois sombre qui vous font face sous l'arche sont fendillées, gercées par des années de soleil, mais elles tiennent. Deux anneaux de cuivres verdis se trouve à hauteur d'homme sur chaque vantaux._ 
 
-Les portes sont usées mais elles tiennent encore. Elles sont barrées de l'intérieur. Les forcer est possible mais ardu (_test de Force, ND 15_). En cas de succès, les gonds rouillés et la barre de bois rendent un vacarme suffisant pour alerter les occupants de la tour ouest et ceux qui se trouve dans la cour (zone 2 et 4). En cas d'échec, le bruit est identique — et les portes restent fermées.
+Les portes sont usées mais elles tiennent encore. Elles sont barrées de l'intérieur. Les forcer est possible mais ardu (_test de Force, ND 15_). En cas de succès, les gonds rouillés et la barre de bois rendent un vacarme suffisant pour alerter les occupants de la tour ouest et ceux qui se trouve dans la cour ([[02 - Le temple oublié de Wazedah#2. Tour ouest|zone 2]] et 4). En cas d'échec, le bruit est identique — et les portes restent fermées.
 
 Les PJ peuvent tenter d'escalader les murs d'enceinte (_test de Dextérité, ND 12 avec l'équipement adéquat ou 15 sinon_) ou passer par la brèche de la tour est (zone 3), dont l'état d'effondrement partiel offre un accès discret mais non sans danger.
 
 **Les symboles sur la porte et l'œil.** Un *test d'Intelligence ND 12* permet  de reconnaître les arabesques et l'œil gravé comme des symboles liés au culte d'Ord. En dépassant le ND 15, on peut déduire d'après l'ensemble de l'iconographie — la sophistication des motifs, la rigueur de leur agencement — que cet endroit est bien plus qu'un simple lieu de culte. Ce temple devait être le siège d'un ordre versé dans le savoir et les connaissances ésotériques. Moines, scribes, ou peut-être quelque chose d'encore plus mystérieux.
 
+#### 2. Tour ouest
+
+_La tour s'élève au-dessus du mur d'enceinte, massive et trapue. Ses pierres ont la même teinte ocre que le reste du temple, mais le vent du désert les a polies jusqu'à leur donner un aspect presque lisse. Des poutres  de bois émergent de la paroi à intervalles réguliers, indiquant un étage, renforcé par la présence de meurtrières étroites.  _
+
+Le rez-de-chaussée est sombre et sent la poussière ancienne. Quelques amphores brisées gisent contre les murs — vestiges de la confrérie qui occupait ces lieux. Une échelle de bois mène à une trappe donnant sur la plateforme supérieure.
+
+La plateforme offre une vue dégagée sur la porte d'entrée ([[02 - Le temple oublié de Wazedah#1. Porte d'entrée|zone 1]]), la cour intérieure (zone 4) et le désert alentour. Deux meurtrières permettent aux gardes de surveiller et de tirer à couvert. Deux tonneaux sont arrimés contre le parapet : l'un contient des flèches, l'autre de l'eau. Des torches sont entassées dans un coin, allumées à la nuit tombée. Des couvertures traînent sur le sol — protection contre le froid des nuits du désert.
+
+**Les gardes.** Deux voleurs de Wadim ([[Bandit|bandits]]) montent la garde en permanence. Il y a 2 chance sur 6 qu'ils soient en train de jouer aux osselets, auquel cas leur attention est réduite. Ils restent cependant éveillés.
+
+**En cas d'alerte extérieure** (bruit à la porte, silhouettes approchant du temple) : l'un des gardes descend immédiatement prévenir les occupants du temple tandis que l'autre couvre depuis la plateforme avec son arc.
+
+**En cas de menace intérieure** (combat dans la cour, zone 4) : les deux gardes restent en position et font pleuvoir les projectiles depuis la tour, en profitant de leur couverture.
+#### 3. Tour est
+_La tour est s'est en partie effondrée. Un pan entier de sa façade extérieure manque, ouvrant une brèche béante sur le désert. Les pierres écroulées forment un amas de gravats qui semblent instables._
+
+C'est par ici que les PJ peuvent s'introduire dans le temple — à condition d'être discret'.
+
+**Zone instable.** Traverser la tour impose un **test de DEX ND 9**. En cas d'échec, un éboulement partiel se produit : 1D6 dégâts (*test de CON ND 9* pour moitié) et un vacarme suffisant pour alerter les gardes de la tour ouest (zone 2). En cas de réussite, la traversée reste silencieuse — mais il y a toujours 1 chance sur 6 qu'une pierre se détache et provoque du bruit, quelle que soit l'issue du test.
+
+**Le butin caché.** Dans l'un des murs encore debout, le mortier fissuré dissimule une cachette grossière : un fragment de pierre descellé, derrière lequel est glissé un chiffon noué. Il contient une perle polie d'une valeur de 20 po (trésor Normal, 1 PX), subtilisée lors d'un récent raid par l'un des voleurs — un homme qui ne fait plus confiance à ses compagnons et attend le bon moment pour disparaître.
+
+Trouver la cachette nécessite un *test de SAG ND 15*. Si un PJ précise qu'il inspecte méthodiquement les murs, il bénéficie d'un avantage au test.
+
+**Les scorpions.** Un nid de scorpions s'est installé dans les gravats, tout contre la cachette. Si un PJ s'approche du chiffon, 1D3 [scorpions](Scorpion) surgissent et attaquent.
 ## Partie 3 — Les Galeries Supérieures
 
 ### Historique
