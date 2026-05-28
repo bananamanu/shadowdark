@@ -549,6 +549,118 @@ C'est par ici que les PJ peuvent s'introduire dans le temple — à condition d'
 Trouver la cachette nécessite un *test de SAG ND 15*. Si un PJ précise qu'il inspecte méthodiquement les murs, il bénéficie d'un avantage au test.
 
 **Les scorpions.** Un nid de scorpions s'est installé dans les gravats, tout contre la cachette. Si un PJ s'approche du chiffon, 1D3 [scorpions](Scorpion) surgissent et attaquent.
+#### 4. Cour intérieure
+
+_L'espace qui s'ouvre devant vous est plus grand que ne le laissait supposer la porte d'entrée. La cour est pavée de dalles de grès ocre mais le sable et les débris de roche l'ont presque entièrement recouverte. Sur votre droite, une tenture de laine grossière, tendue entre deux pieux plantés à la va-vite, abrite plusieurs chameaux attachés à des piquets. Les bêtes mâchonnent en silence, indifférentes. L'air sent le poil chaud et le fumier._
+
+_En face de vous se dresse la façade imposante de l'édifice, entièrement sculptée dans la roche. Des colonnes engagées s'élèvent sur toute plus de 6 m de hauteur, ornées de motifs entrelacés. Entre elles, des bas-reliefs représentent des vaguement des silhouettes en procession mais toutes été martelées à coups de pierre, ce qui les rend difficilement identifiable . Un escalier large et usé de pierre blanche, dont les marches ont pris une courbure douce sous des siècles de passage, monte jusqu'aux portes._
+
+_Ces dernières sont massives, en bronze épais que le temps a viré au vert-de-gris. Un vantail est entrouvert, assez grand pour que quelqu'un passe. Et au-dessus, à quatre mètres au moins, un œil sculpté dans la pierre vous regarde. Le même que sur la porte d'entrée, mais plus grand — bien plus grand. Son iris est un trou circulaire qui s'enfonce dans la pierre._
+
+**Les chameaux.** Les bêtes sont calmes tant qu'on ne les approche pas brusquement. Tout mouvement vif ou bruit soudain à proximité provoque des grognements et des ruades — suffisant pour attirer l'attention depuis le vestibule (zone 6) ou la tour ouest ([[02 - Le temple oublié de Wazedah#2. Tour ouest|zone 2]]). Un *test de SAG ND 9* permet d'approcher sans les inquiéter.
+
+**Les sorties latérales.** Deux passages s'ouvrent dans les murs de la cour, de part et d'autre de la façade principale. Celui de droite mène à la citerne (zone 5) ; celui de gauche, à l'étable (zone 8). Ils ne sont pas gardés, mais restent visibles depuis la tour ouest.
+
+**L'œil et le conduit.** L'iris ajouré de l'œil sculpté n'est pas un ornement : c'est un puits de lumière qui descend jusqu'à la salle de prière (zone 15), perçant le mur du temple sur toute son épaisseur. Son diamètre est suffisant pour qu'un halfelin s'y glisse sans difficulté ; un personnage de taille normale  et sans armure peut tenter le passage mais devra se contorsionner (_test de DEX ND 12_). En cas d'échec, il reste coincé — et ses efforts produisent un bruit de raclement audible depuis la salle de prière.
+
+Pour atteindre l'œil, il faut d'abord escalader la façade. La pierre est belle mais traîtresse : l'usure du temps a rendu les reliefs friables, et plus d'un appui en apparence solide risque de céder. Il faut un _test de DEX ND 12_ pour l'escalader ; en cas d'échec, la pierre se dérobe la chute depuis 4 mètres provoque 1D6 dégâts et un fracas suffisant pour alerter les occupants du vestibule et de la cour.
+
+**Niveau de danger.** La cour intérieure est un espace à ciel ouvert, visible depuis la tour ouest et traversé régulièrement par les voleurs en déplacement entre les zones. C'est un endroit **risqué** pour les jets de rencontres aléatoires (1 test tous les 2 rounds). Référez-vous à la table de rencontres aléatoires pour les détails.
+#### 5. Citerne
+
+_Vous pénétrez dans une salle basse, fraîche et humide, creusée dans la roche, contrastant avec la chaleur étouffante du désert. Contre le mur ouest se trouve un bassin central rempli d'une eau sombre et calme. Quelques seaux de bois sont posés contre la margelle. Dans le mur nord, à hauteur de genou, un conduit de terre cuite sort de la paroi.  Un étrange bourdonnement sourd en semble sourdre, comme si la pierre murmurait. Deux escaliers au nord et à l'est conduisent au reste du complexe tandis qu'une ouverture au sud donne sur l'extérieur_
+
+La bassin est alimenté par une source captée en amont dans les Monts Silencieux. Cette source fournissait  également les bains (zone 7) et se déversait dans la citerne par conduit de terre cuite du mur nord. Cependant, un tremblement de terre à bouché l'alimentation des bains et le conduit de retour s'est asséché. Le bourdonnement qu'on entend est le fruit d'une conversation entre deux voleurs qui occupe la zone 7.  Quiconque colle l'oreille au conduit entend distinctement leurs échanges  :
+
+_— Je pensais pas qu'on en arriverait là. Vendre des gens._
+_— C'est Wadim qui décide._
+_— Wadim décide, ouais. Vivement que Khara et sa clique s'en aille. Je ne supporte plus cette gnolle. Son rire me tape sur les nerfs_
+_— Malchor a pas l'air content non plus._
+_— Malchor a jamais l'air content. Mais là... je sais pas. Il dit rien et ça m'inquiète plus que s'il gueulait. Je l'ai surpris avec d'autres faisant des messes basses au réfectoire_
+_— On fait quoi, nous ?_
+_— On attend. On fait rien. C'est plus sûr._
+
+**Niveau de danger.** La citerne est un point de passage entre la cour et les bains. C'est un endroit **risqué** pour les jets de rencontres aléatoires (1 test tous les 2 rounds). Référez-vous à la table de rencontres aléatoires pour les détails.
+
+#### 6. Vestibule
+
+_La salle est basse et sombre. La lumière du dehors entre à peine par le vantail entrouvert — une raie blanche sur les dalles poussiéreuses — et vos yeux mettent un moment à s'ajuster. Au nord, une double porte de bois gravée de multiple arabesques est encadrée par deux bancs de pierre longeant leur pans de mur respectif. Dans le coin sud-ouest, une rangée de crochets de bronze est encore fichée dans la paroi — certains arrachés, d'autres tordus, tous vides. Dans le coin sud-est, ce qui fut une penderie n'est plus qu'un amas de bois vermoulu et de ferraille rouillée. Au-dessus de l'encadrement, une inscription court sur toute la largeur du linteau, gravée profond dans la pierre._
+
+_Deux hommes sont présents. L'un est assis sur un banc, dos au mur, les bras croisés. L'autre s'est allongé sur la pierre, les jambes étendues, la tête posée sur son balluchon. Ni l'un ni l'autre ne vous a entendus._
+
+**L'inscription.** Gravée en vieux dialecte, elle se lit ainsi pour qui réussi un _test d'INT ND 12_ :
+
+_Purifie ton corps avant de fouler ce seuil._ _Honore les Quatre Aspect du dieu Ord dans l'ordre du soleil._ _Incline-toi devant la porte du Secret._ _Alors seulement, entre en prière._
+
+Un personnage qui réussit le test comprend qu'il s'agit d'une injonction rituelle en quatre étapes — et que ces étapes correspondent à des lieux précis du temple. Un résultat de 15 ou plus permet d'associer intuitivement "les Quatre Aspect" à différentes représentation de la divinité, et "la porte du Secret" à quelque chose de caché.
+
+**La penderie.** L'amas de bois et de ferraille peut être fouillé (_test de SAG ND 12_). En cas de succès, le PJ met la main sur une bourse de cuir coincée derrière une planche — 8 pa et 3 po, oubliés là par un moine pressé ou délibérément cachés. **(Trésor Pauvre, 1 PX)**
+
+**Les gardes.** Deux [[bandit|bandits]] loyaux à Wadim montent la garde — ou font semblant. De jour, ils sont éveillés mais peu attentifs : ils jouent aux dés, murmurent, s'ennuient. Une approche discrète depuis la porte est possible avec un _test de DEX ND 9_. La nuit, il y a 4 chances sur 6 qu'ils somnolent, une petite lanterne posée entre eux sur le sol. Dans ce cas, une attaque surprise est automatique si les PJ ont traversé la cour sans déclencher d'alerte.
+
+#### 7. Bains
+
+_La salle sent l'humidité froide et la pierre mouillée. Le sol, autrefois carrelé de faïence aux motifs géométriques bleus et blancs, est en partie effondré — des dalles brisées affleurent sous une pellicule d'eau stagnante qui couvre le sol d'un doigt. Les murs conservent des traces de leur splendeur passée : des niches creusées à hauteur d'homme pour poser les huiles et les linges, des banquettes de pierre le long des parois, un bassin central peu profond aujourd'hui fissuré. Dans le mur ouest, un tuyau de terre cuite dépasse de la paroi à hauteur de genou — un filet d'eau s'en échappe en silence, alimentant l'humidité ambiante. La seule lumière vient de l'arche au sud, ouverte sur le couloir  : une clarté diffuse qui suffit à distinguer les formes sans révéler les détails._
+
+_Deux hommes sont assis sur une banquette dans le fond, à voix basse._
+
+**Les deux voleurs.** Ce sont des [bandits] hésitants, proches du camp Malchor sans s'y être encore ralliés. La conversation qu'ils tiennent est celle que les PJ ont pu surprendre depuis la citerne ([[02 - Le temple oublié de Wazedah#5. Citerne|zone 5]]). Si les PJ arrivent par le couloir du pèlerin, ils les entendent avant de les voir. Ils ne cherchent pas le combat à moins d'y être forcé — surpris, ils peuvent capituler ou fuir vers le vestibule selon la situation. Ils n'ont rien de valeur sur eux.
+
+**Le cobra.** Un [[Serpent cobra|cobra]] s'est lové à l'intérieur du conduit, invisible de l'extérieur. Un *test de SAG ND 12* permet de déceler quelque chose d'anormal — une légère odeur musquée, un imperceptible mouvement au fond du tuyau. Quiconque plonge la main dans le conduit sans précaution subi son attaque potentiellement mortelle.
+
+**Déboucher le conduit.** Avec précaution — après avoir écarté ou tué le cobra — un PJ peut tenter de déboucher l'obstruction avec un _test de FOR ou DEX ND 12._ En cas de succès, un jet d'eau puissant jaillit du tuyau, propulsant violemment toute personne se trouvant devant (1D4 dégâts, recul de portée intermédiaire) et inondant brièvement la salle avant que le débit ne revienne à la normale. Le bruit est suffisant pour alerter les personnes se trouvant dans le couloir du pèlerin :  faire immédiatement un test de rencontre aléatoire.
+#### 8. Étable
+
+_L'odeur vous précède avant même que vous n'ayez franchi le seuil — crottin, paille humide, et le souffle chaud des bêtes : cet endroit est est une écurie. Malgré la taille de la pièce, il n'y pas beaucoup d'espace libre. Deux hommes auraient du mal à se croiser entre les flancs des chevaux. Six bêtes sont attachées à des anneaux scellés dans la paroi, dans ce qui fut visiblement autrefois des stalles à chèvres — on en devine encore les séparations de pierre basse, aujourd'hui inutiles. Quelques sacs de fourrage sont empilés dans le coin nord. De la paille couvre le sol._
+
+_Un homme est assis sur un sac, couteau à la main, en train de tailler un morceau de bois. Il n'a pas encore levé les yeux._
+
+**Se faufiler.** Les chevaux sont calmes mais nerveux dans cet espace confiné. Un PJ qui tente de traverser la salle discrètement doit réussir un _test de DEX ND 9_. En cas d'échec, une des bêtes s'agite, rue et hennit — le palefrenier lève immédiatement la tête.
+
+**Les chevaux.** Si un combat éclate dans la salle, les bêtes paniquent au bout du premier round. Le MJ peut imposer un _test de DEX ND 9_ à tous les personnages présents ou subir 1D4 dégâts de ruades et de bousculades.
+
+**Le palefrenier.** Un [[bandit]] loyal à Wadim, affecté à cette corvée sans enthousiasme. Il se bat si attaqué et cherche immédiatement à obtenir de l'aide en criant au secours.
+#### 9. Le Chemin du Pèlerin
+
+_Vous avancez dans un couloir étroit et bas de plafond partiellement éclairé par la faible lumière de lampes à huile suspendues à intervalles réguliers. Le sol est usé au centre, creusé par des siècles de pas — la trace fantôme d'une procession qui n'existe plus. 
+
+Le couloir  qui fait le tour de la salle de prière et donne un accès à presque toutes les pièces du temple était nommé le Chemin du Pèlerin. Une fois arrivé par les vestibules, les visiteurs se lavaient aux bains puis empruntait le couloir pour faire le tour de la salle de prière avant d'y pénétrer.
+
+**Les quatre statues.** Tout au long du Chemin du Pèlerin se trouve des alcôves où sont logées des statues de bronze. Chacune représente une étape du cycle de la vie selon la foi d'Ord. Toutes sont dans un état de dégradation avancé — bronze terni, membres fissurés — mais leurs articulations cachées fonctionnent encore. Une inspection attentive (_test de SAG ND 9_) révèle que certaines parties des statues sont mobiles.  Le rituel du pèlerin imposait de mettre ces statues dans une position particulière afin d'ouvrir le sanctuaire (zone 14).
+
+Les statues sont les suivantes :
+
+**9A — La Jeune Fille** _(alcôve sud-ouest)_
+
+_Une jeune femme aux traits doux, les bras le long du corps, les paumes fermées. Son visage lève vers le ciel._
+
+Une inscription gravée au pied de la statue, en vieux dialecte (_test d'INT ND 12_) : _"Celui qui naît s'offre au monde les mains vides et le cœur ouvert."_. Il faut ouvrir les bras et tourner les paumes vers le haut.
+
+**9B — Le Guerrier** _(alcôve nord-ouest)_
+
+_Un homme dans la force de l'âge, le bras droit levé, tenant une épée pointée vers le ciel._
+
+Une inscription gravée au pied de la statue, en vieux dialecte (_test d'INT ND 12_) : _"La force véritable ne se mesure pas à ce qu'elle abat, mais à ce devant quoi elle s'incline."_ Il faut  abaisser le bras jusqu'à ce que la lame pointe vers le sol.
+
+**9C — Le Vieillard** _(alcôve nord-est)_
+
+_Un vieil homme voûté, la tête droite, les mains croisées sur une canne. Son visage a été partiellement martelé — les traits sont illisibles._
+
+L'inscription gravée au pied de la statue est partiellement détruite, seuls quelques mots subsistent (_test d'INT ND 15_) : _"…le sage… vers ce qui… demeure…"_. Il faut tourner la tête vers le mur intérieur, en direction du sanctuaire. Le geste exact ne peut être deviné que par déduction, en observant la direction naturelle du regard que la posture suggère.
+
+**9D — Le Phénix** _(alcôve sud-est)_
+
+_Un oiseau aux ailes déployées, la tête fièrement dressée. À sa base, des flammes sculptées semblent le consumer et le faire renaître simultanément._
+
+Les peuvent facilement reconnaitre la représentation d'un phénix. L'inscription est gravée à l'arrière du socle, invisible à moins de contourner la statue. Elle dit en vieux dialecte (_test d'INT ND 12_) : _"Ce qui s'incline devant la mort se relève dans la gloire."_. Il faut incliner la tête de l'oiseau vers le bas.
+
+**Le rituel.** L'inscription du vestibule (zone 6) indique la marche à suivre : partir des bains (zone 7), longer le couloir dans le sens du soleil — soit de 9A vers 9D — et accomplir le geste sur chaque statue dans l'ordre. Si le rituel est accompli correctement, un grondement sourd se fait entendre et le passage secret du sanctuaire (zone 14) s'ouvre.
+
+Un geste effectué dans le mauvais ordre ou dans le mauvais sens ne produit aucun effet —Après 1h, un mécanisme de ressorts ramène les statues silencieusement dans leur position initiale. 
+
+**Le passage secret.** Un personnage qui inspecte attentivement le mur entre le couloir et la salle de prière peut tenter un _test de SAG ND 15_. En cas de succès, il perçoit que quelque chose d'important se trouve derrière — une discontinuité dans la maçonnerie, un courant d'air imperceptible — et comprend qu'un mécanisme complexe doit commander son ouverture. Il ne peut pas l'ouvrir par la force : seul le rituel le permet.
+
+**Niveau de danger.** Le couloir est un axe de circulation entre plusieurs zones du temple. C'est un endroit **risqué** pour les jets de rencontres aléatoires (1 test tous les 2 rounds). Référez-vous à la table de rencontres aléatoires pour les détails.
 ## Partie 3 — Les Galeries Supérieures
 
 ### Historique
