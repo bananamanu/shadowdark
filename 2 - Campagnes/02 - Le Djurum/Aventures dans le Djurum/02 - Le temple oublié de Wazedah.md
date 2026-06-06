@@ -661,6 +661,96 @@ Un geste effectué dans le mauvais ordre ou dans le mauvais sens ne produit aucu
 **Le passage secret.** Un personnage qui inspecte attentivement le mur entre le couloir et la salle de prière peut tenter un _test de SAG ND 15_. En cas de succès, il perçoit que quelque chose d'important se trouve derrière — une discontinuité dans la maçonnerie, un courant d'air imperceptible — et comprend qu'un mécanisme complexe doit commander son ouverture. Il ne peut pas l'ouvrir par la force : seul le rituel le permet.
 
 **Niveau de danger.** Le couloir est un axe de circulation entre plusieurs zones du temple. C'est un endroit **risqué** pour les jets de rencontres aléatoires (1 test tous les 2 rounds). Référez-vous à la table de rencontres aléatoires pour les détails.
+
+#### 10. Cuisine
+
+_La porte pousse sur une odeur entêtante de graisse rance et de fumée froide. La salle est longue avec un plafond voûté et noirci. Des crochets de fer forgé régulièrement espacés et un plan de travail en pierre polie courent sur toute la longueur du mur sud. Un foyer creusés dans la maçonnerie avec sa grille en fer se trouve au centre de la pièce. Un mouton a été embroché sur une tige de fer tordue en guise de tourne-broche, suspendue au-dessus du foyer à l'aide de deux fourches de fortune fichées dans les joints. Les braises sont basses. Des jarres d'huile, des sacs de farine éventrés et une rangée de casseroles de cuivre noircies encombrent le plan de travail. _
+
+_Quatre hommes sont présents autours du foyer sont plongés dans une conversation qui s'arrête net quand vous entrez._
+
+**Les occupants.** C'est ici que ce trouve Malchor et trois [[Bandit|bandits]], sympathisants du camp des mécontents. Ils étaient en pleine conciliabule avant l'arrivée des PJ — les hommes sont tendus, à l'affût, et réagiront au moindre geste brusque. Si un combat éclate, le voleur de la réserve voisine ([[02 - Le temple oublié de Wazedah#11. Réserve|zone 11]]) rapplique au bruit au bout de 2 rounds et ceux du réfectoire ([[02 - Le temple oublié de Wazedah#11. Réfectoire|zone 12]]) au bout de 4 rounds.
+
+**Malchor.** Si les PJ ne passent pas immédiatement à l'attaque, il les jauge en silence pendant quelques secondes avant de parler. S'il les sent hésitants — ou s'il perçoit qu'ils ne sont pas là pour le compte de Wadim — il lève une main ouverte vers ses hommes et propose de parlementer. Il n'élève pas la voix. Il n'a pas besoin de le faire. Il en fera de même s'il est blessé ou que la moitié de ses sbires seront au tapis ( il sera néanmoins dans une position beaucoup plus inconfortable)
+
+**Ce que Malchor propose.** Un accord simple : les PJ éliminent Wadim et les gnolls, Malchor et ses hommes s'écartent du combat et leur ouvrent les portes. En échange, il réclame sa part du trésor qu'il pense se trouver à la bibliothèque. Pour appuyer sa proposition, il livre volontiers les informations suivantes, dans l'ordre où elles servent son argumentaire :
+
+- **Les effectifs.** Une quinzaine de voleurs au total dans le temple. Cinq sont avec lui — les autres sont des fidèles de Wadim, dont les plus dangereux gardent la salle de prière avec les esclaves.
+- **Les gnolls.** Khara et trois ou quatre gnolls occupent le scriptorium. Malchor les déteste cordialement et ne cherche pas à le cacher. 
+- **Wadim et la bibliothèque.** Wadim s'enferme régulièrement dans la bibliothèque pendant plusieurs heures et interdit formellement qu'on l'y suive. Malchor est convaincu que le trésor du gang s'y trouve._
+- **L'ordre d'élimination.** Il recommande aux PJ de tuer Wadim en premier, avant de s'occuper des gnolls, persuadés que le reste de la bande se rendra ensuite.
+
+**Ce que Malchor ne dit pas.** Il ignore totalement l'existence des galeries supérieures — pour lui, la bibliothèque est un cul-de-sac. Si les PJ s'y rendent et trouvent la salle vide, ils pourraient légitimement penser que Malchor les a tendu un piège. 
+
+**Malchor comme allié.** Croire Malchor est une chose. Lui faire confiance en est une autre. Ses informations sont exactes — il n'a aucune raison de mentir sur les faits. Mais ses motivations, elles, sont purement personnelles. Il ne cherche pas à sauver les esclaves, à rétablir l'ordre ou à réparer quoi que ce soit. Il veut le pouvoir, l'or, et sortir de cette situation vivant. Les PJ qui jouent le jeu peuvent en tirer un avantage réel mais Malchor reste un être abject : s'il voit qu'il a une possibilité de trahir les PJ, il le fera sans hésiter.
+#### 11. Réserve
+
+_La pièce est plongée dans le noir complet. À la lumière, elle révèle un inventaire hétéroclite entassé sans méthode : des sacs de grain empilés contre le mur ouest, des jarres d'huile et de vin alignées au sol, des caisses de bois clouées dont certaines portent encore des marques de marchands d'Alkesh. Des guirlandes d'ail et d'herbes séchées pendent aux crochets du plafond. Une odeur de farine, de cuir et d'épices éventées imprègne la pierre._
+
+**Les occupants.** La réserve est normalement vide — le voleur qui en a la charge, le cuisinier du gang, y fait des allées et venues régulières pour préparer les repas. Il y a de fortes chances que les PJ l'aient déjà croisé avant d'arriver ici. 
+
+**L'esclave caché.** Derrière les caisses du coin nord-est se trouve un jeune homme recroquevillé sur lui-même, les genoux contre la poitrine. Maigre, les vêtements en loques, les poignets encore marqués par les cordes. Il retient sa respiration en entendant des pas. Il a profité d'une livraison — les bandits font parfois travailler les esclaves au déchargement — pour s'éclipser dans la confusion et se glisser ici. Il attend la nuit pour tenter de fuir. S'il entend des pas sans voir de lumière, il ne bouge pas et ne fait aucun bruit. S'il est découvert, il plaque une main sur sa bouche pour étouffer un cri et se tasse encore davantage contre le mur. Il faut quelques secondes et des gestes apaisants pour qu'il comprenne qu'il n'est pas en danger. Avec des PJ bienveillants, un _test de CHA ND 9_ suffit à le mettre en confiance. Il parle alors à voix très basse, les yeux rivés sur la porte.
+
+**Développement.** Le jeune homme s'appelle Rafi. Il connaît peu les lieux — il n'a circulé que dans la cour et la salle de prière depuis sa capture. Il peut indiquer aux PJ :
+- Qu'il y a d'autres esclaves enchaînés dans une grande salle au centre du temple, gardée par plusieurs hommes armés.
+- Qu'il a des créatures horribles mi-hyène, mi-homme (les gnolls). Elles semblent s'intéresser aux esclaves
+- Que leur chef se nomme Wadim et que c' est un homme que tout le monde évite. 
+
+Rafi veut s'enfuir. Si possible cette nuit, seul si nécessaire. Il est convaincu qu'il peut traverser le désert à pied jusqu'à Alkesh — une naïveté dangereuse que les PJ peuvent tenter de corriger (_test de CHA ou INT ND 9_). S'ils lui expliquent la réalité du désert nocturne, il se décompose légèrement, puis demande s'ils peuvent l'emmener avec eux.
+#### 12. Réfectoire
+
+_Deux longues tables de bois courent parallèlement sur toute la longueur de la salle, flanquées de bancs massifs. Le mobilier est solide, taillé pour durer. Des restes de repas traînent sur les tables, des outres et des gobelets de fer sont éparpillés sans ordre, et quelqu'un a gravé des marques sur un banc à coups de couteau._
+
+_Trois hommes sont présents. Ils ne font rien avec conviction._
+
+**Les occupants.** Trois [[Bandit|bandits]], qui tuent le temps selon l'heure — mangeant sans appétit, buvant sans gaieté, jouant aux dés sans enjeu réel. Deux sont des fidèles de Wadim. Le troisième est un sympathisant de Malchor, mais rien dans son attitude ne le trahit : ici, tout le monde fait profil bas.
+
+**En cas d'intrusion.** Les bandits passent à l'attaque sans hésiter — la méfiance et l'ennui accumulé font le reste. Si un combat éclate dans la cuisine voisine ([[02 - Le temple oublié de Wazedah#10. Cuisine|zone 10]]) et qu'ils l'entendent, ils arrivent en renfort au bout de 2 rounds.
+#### 13. Dortoir
+
+_La salle est silencieuse. Ce qui fut son mobilier a disparu depuis longtemps — il n'en reste que les traces fantômes d'emplacements usés dans la pierre. À la place, des sacs de couchage et des balluchons sont disposés en désordre sur le sol, certains contre les murs, d'autres au centre sans logique apparente. L'air sent la sueur, le cuir et le renfermé._
+
+_Plusieurs formes sont allongées, immobiles. On entend une respiration lente et régulière._
+
+**Les occupants.** 1d4+2 voleurs ([[Bandit|bandits]]) en plein sommeil. C'est la majorité des effectifs hors-service du temple — ceux qui ne sont pas de garde dorment ici par roulement.
+
+**Réveil.** Ces hommes dorment profondément. Un mouvement furtif, une lumière, voire des voix basses ne suffisent pas à les tirer du sommeil. Seul un bruit violent — l'alarme donnée ailleurs dans le temple, un combat proche, ou le rire strident de Khara — les fait se redresser.
+
+**Fouille.** Les affaires personnelles des voleurs sont sans intérêt pour l'essentiel — vêtements de rechange, rations, quelques objets de pacotille. En fouillant l'ensemble des balluchons, les PJ peuvent assembler un butin dispersé de 20 po au total — quelques pièces par sac, un couteau de bonne facture, des bijoux modestes volés à des victimes. (Trésor normal — 1 PX)
+
+#### 14. Sanctuaire
+
+_La porte secrète s'ouvre sur une  petite pièce, presque intime, taillée dans la roche avec une précision qui contraste avec le reste du temple. Le sol est dallé est recouvert de poussière. Les murs sont couverts d'arabesques et de symboles d'Ord, intacts, jamais martelés — personne n'a mis les pieds ici depuis des années._
+
+_Face à vous, un autel de pierre sombre occupe tout le mur est. Une statue d'Ord en or massif le surmonte — l'œil ouvert, la main tendue, paume vers le haut. De part et d'autre, deux chandeliers en argent massif sont incrustés de pierres précieuses, leurs bougies depuis longtemps consumées. Sur l'autel, entre les chandeliers, repose une boîte de métal sombre collée au mur, d'environ trente centimètres de long, couverte de fins mécanismes visibles — engrenages minuscules, tubes de cuivre, un cadran à aiguilles immobiles._
+
+**Ouverture de la salle.** Le sanctuaire s'ouvre par le rituel des quatre statues d'Ord en empruntant le [[02 - Le temple oublié de Wazedah#9. Le Chemin du Pèlerin|Chemin du Pèlerin]]
+
+**Le trésor.** La statue d'Ord en or massif et les deux chandeliers en argent incrusté de gemmes constituent un butin exceptionnel — encombrant, difficile à transporter discrètement, mais d'une valeur considérable. **(Trésor fabuleux — 2 PX, valeur approximative 150 po)**
+
+**La boîte de métal.** Le mécanisme visible sur la boîte est d'une sophistication inhabituelle — des engrenages fins comme des cheveux, des tubes de cuivre reliés à un petit réservoir vide, un cadran aux aiguilles bloquées. Un _test d'INT ND 12_ permet de reconnaître qu'il s'agit d'une horloge à eau : le mécanisme est alimenté par un flux hydraulique, et le réservoir alimenté par un tube qui s'enfonce dans le mur est à sec depuis longtemps. Sans eau, la boîte est inerte.
+
+Forcer le mécanisme est impossible sans le détruire — et avec lui, vraisemblablement, ce qu'il contient. Un _test d'INT ND 15_ permet de comprendre que l'eau doit provenir d'une source active à proximité, et qu'il faut rétablir le flux pour activer le système.
+
+**Rétablir l'eau.** Si les PJ ont remis la citerne en fonctionnement dans les bains ([[02 - Le temple oublié de Wazedah#7. Bains|zone 7]]), l'eau circule à nouveau dans les canalisations du temple. Il suffit simple de tourner une petite poignée situé sur le  côté droit de la boîte pour que le mécanisme s'anime : les engrenages tournent, le cadran s'éveille, et après quelques secondes, un déclic sourd se fait entendre. Le couvercle s'ouvre.
+
+**Le contenu de la boîte.** À l'intérieur, posé sur un lit de soie noire effilochée par le temps, se trouve un simple anneau d'or poli qui étincelle d'une lueur chaude. **(Trésor normal — 1 PX)**. Il s'agit d'un [[13 - Objets magiques#Anneau d'invisibilité|anneau d'invisibilité]].
+#### 15. Cellules de méditation
+
+_Le couloir s'ouvre sur une succession d'alcôves creusées sur toutes les parois de la salle — petites, basses, à peine assez larges pour qu'un homme s'y assoie en tailleur. Il s'agissait manifestement un lieu de retrait et de silence, mais il ne reste plus grand-chose de ce qu'il fut._
+
+_Les alcôves ont été vidées, saccagées. Dans chacune, une petite niche est visible  ou l'ont peut voir les vestiges de panneaux de bois. Ce qui se trouvait derrière a disparu depuis longtemps, emporté ou détruit._
+
+_La partie est de la salle est en mauvais état : des fissures larges comme le poing courent du sol au plafond, et une alcôve s'est partiellement effondrée, ses pierres répandues sur le sol en un tas de gravats poussiéreux._
+
+Chaque niche contenait un panneau avec des dalles coulissantes qui représentait un casse-tête à résoudre pour les initiés de la Confrérie. Triompher de l'énigme donnait accès à une partie des écrits de leur ordre.
+
+**Les occupants.** Un [[gnoll]] maître-chien occupe cette zone quasi en permanence, installé dans l'alcôve qui fait face à l'ouverture donnant sur le couloir. Trois [[Hyène|hyènes]] sont avec lui, chacune dans son alcôves, nerveuses e tprêtes en en découdre. Les voleurs de Wadim évitent cette zone depuis que les gnolls s'y sont installés. Personne ne vient ici sans y être contraint.
+
+**Le maître-chien.** C'est un gnoll trapu et silencieux, les bras couverts de cicatrices de morsures — marques d'une vie passée à dresser des prédateurs. Il ne vit que pour ses hyènes et pour la chasse. Pour lui, tout être qui n'appartient pas à la troupe de Khara est un esclave potentiel — les voleurs de Wadim inclus, qu'il tolérerait volontiers en cage si Khara lui en donnait l'ordre. Il ne parle pas la langue commune.
+
+**Réaction.** Le maître-chien n'hésite pas. Tout inconnu qui pénètre dans la salle déclenche une réaction immédiate : un sifflement bref, et les hyènes sont lâchées. 
+
+**Si le combat tourne mal pour lui**, le maître-chien recule vers le fond de la salle et émet un cri strident — une alarme destinée à Khara et aux gnolls du scriptorium ([[02 - Le temple oublié de Wazedah#17. Scriptorium|zone 17]]). 
 ## Partie 3 — Les Galeries Supérieures
 
 ### Historique
