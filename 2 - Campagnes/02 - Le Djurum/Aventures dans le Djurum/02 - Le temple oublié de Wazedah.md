@@ -485,7 +485,7 @@ Ce lieu a deux visages. Le premier est visible, bruyant, humain : des hommes arm
 
 Cette partie couvre le **temple visible** — la cour intérieure, les galeries, les salles occupées par le gang de Wadim. C'est ici que les PJ affrontent les sbires, découvrent les esclaves, et commencent à comprendre que leur mission initiale n'était que la surface des choses. Le passage vers les **Galeries Supérieures** se trouve dans la bibliothèque de la Confrérie. Les PJ y arriveront quand ils seront prêts. Ou avant.
 
-> **Note pour le MJ :** Le temple fonctionne comme un lieu vivant. Les voleurs circulent, réagissent, se parlent. Le bruit porte dans la pierre. Une alarme donnée dans la cour change la situation dans les galeries. Gérer ce lieu, c'est gérer un état d'alerte qui évolue — pas un plan statique.
+> **Note pour le MJ :** Le temple fonctionne comme un lieu vivant. Les voleurs circulent, réagissent, se parlent. Le bruit porte dans la pierre. Une alarme donnée dans la cour change la situation dans les galeries. Consulter la [[02 - Le temple oublié de Wazedah#Tactique des voleurs en cas d'intrusion|tactique des voleurs en cas d'intrusion]].
 ### Historique du temple
 
 Le temple de Wazedah fut érigé par la Confrérie Ashir Bel Dhekran à flanc de falaise, dans les contreforts des Monts Silencieux, à une journée de marche du Val de la Lune. Ce n'est pas un hasard. Le Val — cette vallée de sable blanc où la lune brille à midi et d'où s'infiltrent dans le monde les démons des dunes — était l'objet d'étude central de la Confrérie, et sa menace principale. Le temple fut à la fois un observatoire et un verrou : les moines y étudiaient les brèches dans la réalité, y contenaient les excursions de créatures, et maintenaient une présence permanente sur ce seuil entre le monde et ce qui se trouve derrière.
@@ -744,13 +744,51 @@ _La partie est de la salle est en mauvais état : des fissures larges comme le p
 
 Chaque niche contenait un panneau avec des dalles coulissantes qui représentait un casse-tête à résoudre pour les initiés de la Confrérie. Triompher de l'énigme donnait accès à une partie des écrits de leur ordre.
 
-**Les occupants.** Un [[gnoll]] maître-chien occupe cette zone quasi en permanence, installé dans l'alcôve qui fait face à l'ouverture donnant sur le couloir. Trois [[Hyène|hyènes]] sont avec lui, chacune dans son alcôves, nerveuses e tprêtes en en découdre. Les voleurs de Wadim évitent cette zone depuis que les gnolls s'y sont installés. Personne ne vient ici sans y être contraint.
+**Les occupants.** Un [[gnoll]] maître-chien occupe cette zone quasi en permanence, installé dans l'alcôve qui fait face à l'ouverture donnant sur le couloir. Trois [[Hyène|hyènes]] sont avec lui, chacune dans son alcôve, nerveuses et prêtes en en découdre. Les voleurs de Wadim évitent cette zone depuis que les gnolls s'y sont installés. Personne ne vient ici sans y être contraint.
 
 **Le maître-chien.** C'est un gnoll trapu et silencieux, les bras couverts de cicatrices de morsures — marques d'une vie passée à dresser des prédateurs. Il ne vit que pour ses hyènes et pour la chasse. Pour lui, tout être qui n'appartient pas à la troupe de Khara est un esclave potentiel — les voleurs de Wadim inclus, qu'il tolérerait volontiers en cage si Khara lui en donnait l'ordre. Il ne parle pas la langue commune.
 
 **Réaction.** Le maître-chien n'hésite pas. Tout inconnu qui pénètre dans la salle déclenche une réaction immédiate : un sifflement bref, et les hyènes sont lâchées. 
 
-**Si le combat tourne mal pour lui**, le maître-chien recule vers le fond de la salle et émet un cri strident — une alarme destinée à Khara et aux gnolls du scriptorium ([[02 - Le temple oublié de Wazedah#17. Scriptorium|zone 17]]). 
+**Si le combat tourne mal pour lui**, le maître-chien recule vers le fond de la salle et émet un cri strident — une alarme destinée à Khara et aux gnolls du scriptorium ([[02 - Le temple oublié de Wazedah#17. Scriptorium|zone 17]]).
+#### 16. Salle de prière
+
+_La salle s'étend devant vous dans la pénombre, plus grande que tout ce que vous avez traversé jusqu'ici. Des rangées de piliers octogonaux s'élèvent jusqu'à des arches en fer à cheval qui portent un plafond de pierre bas et sombre. Entre les arches, les mosaïques du sol dessinent encore leurs arabesques — bleu, ocre, blanc — par endroits intactes, par endroits réduites à du gravier et de la poussière. L'air est lourd. Il sent le suint, la fumée froide et le métal rouillé._
+
+_Au fond, vers le nord-est, un feu rougeâtre crépite faiblement. Quelques silhouettes debout. Des voix basses. Tout autour, dans la pénombre des piliers : des gens enchaînés._
+
+C'était un lieu de recueillement. Ce n'en est plus un. Les voleurs ont investi la salle comme on occupe une écurie — avec indifférence, laissant leurs traces partout où ça leur convenait. Des crochets ont été enfoncés entre les joints des piliers pour y accrocher des chaînes. Le sol de mosaïque est couvert de paille éparse, de détritus, de restes de repas. Aucune statue n'est debout. Les niches murales ont été vidées.
+
+**Les esclaves.** Une vingtaine de captifs sont enchaînés dans la salle, répartis par petits groupes autour des piliers : marchands pris sur la route, vagabonds, nomades dont la caravane a croisé celle de Wadim au mauvais moment. Quelques-uns dorment, épuisés. D'autres fixent les arrivants en silence. Presque aucun n'est en état de se battre : ils sont mal nourris, épuisés, et les chaînes qui les relient aux piliers par des anneaux de fer chevillés dans la pierre ne laissent pas suffisamment de mou pour se déplacer. 
+
+Parmi eux, adossés à deux piliers du côté est, un groupe d'elfes Siruul se distingue par leur tenue — ce qu'il en reste. Trois femmes, deux hommes. Ils ont gardé une posture plus droite que les autres, comme s'ils refusaient de se laisser aller entièrement. Au centre du groupe, [[Lirien Siruul]] — reconnaissable à son calme, à la façon dont les autres s'organisent imperceptiblement autour d'elle. Elle a les yeux ouverts. Elle observe les nouveaux venus sans bouger.
+
+> **Aventuriers de remplacement.** Un ou deux captifs peuvent être des combattants capables de rejoindre le groupe si un PJ vient à mourir — un soldat ruiné, un voleur tombé entre de mauvaises mains. Le MJ pourra les différencier par leur attitude différente : pas résignée, juste en attente.
+
+**La lumière.** Dans la journée, la salle reçoit une lumière indirecte par le conduit qui donne sur la cour intérieure — lumière suffisante pour distinguer les silhouettes et les visages, pas assez pour lire. Tout PJ qui se déplace dans le couloir de déambulation en pleine journée risque de projeter une ombre à travers les ouvertures. Un garde qui regarde dans la bonne direction à ce moment-là n'a pas besoin de réussir de test pour remarquer quelque chose d'inhabituel. La nuit, la salle est dans l'obscurité complète, à l'exception du campement des gardes.
+
+**Le campement des gardes.** Dans l'angle nord-est, contre le mur, les gardes se sont installés avec la désinvolture de gens qui sont ici depuis trop longtemps : un feu de braises dans un brasero de fer, des coussins et des manteaux entassés, un sac d'eau, des restes de nourriture dans un bol en faïence ébréchée. Les armes sont posées à portée de main — pas rangées, posées, comme des objets qu'on ne lâche pas vraiment. La nuit, une lampe à huile maintient ce coin faiblement éclairé. Le reste de la salle disparaît dans l'obscurité.
+
+**Les gardes.** Trois ou quatre voleurs (des [[Bandit|bandits]]) assurent la garde en rotation avec le dortoir ([[02 - Le temple oublié de Wazedah#13. Dortoir|zone 13]]). Ce sont les loyaux de Wadim — pas les plus malins, pas les plus courageux, mais ceux qui n'ont pas de questions à poser et qui font ce qu'on leur dit. Ils patrouillent sans rigueur mais sans relâchement : un qui fait le tour des piliers de temps en temps, les autres au campement, l'œil ouvert.
+
+Si des PJ franchissent l'une des entrées de la salle, les gardes réagissent immédiatement. Ils ne crient pas tout de suite — ils se lèvent, main sur l'arme, et interpellent. Si les PJ ne peuvent pas justifier leur présence de façon convaincante (_test de CHA ND 13_), l'alarme est donnée : voir la [[02 - Le temple oublié de Wazedah#Tactique des voleurs en cas d'intrusion|tactique des voleurs en cas d'intrusion]].
+
+**Libérer les esclaves.** Les chaînes sont chevillées aux piliers avec des boulons de fer — les ouvrir exige soit une clé (sur l'un des gardes), soit du matériel de crochetage (_test de DEX ND 12_), soit de la force brute pour arracher le boulon (_test de FOR ND 15_, avec un bruit suffisant pour alerter quiconque se trouve dans le couloir ou les salles adjacentes). Libérer l'ensemble des captifs prend du temps — trop pour être fait en plein combat.
+
+> **Note pour le MJ.** Libérer les esclaves pose plus d'un problème que les PJ devront résoudre : évacuer une vingtaine de personnes épuisées et enchaînées dans un temple encore occupé n'est pas la même chose que s'en aller seuls.
+#### 17. Scriptorium
+
+_Vous pénétrez dans une grande salle rectangulaire, haute de plafond. L'air ambiant transporte une mélange d'odeurs fortes : fourrure humide, graisse rance, un feu récent. Au fond, le mobilier a été poussé en vrac contre le mur nord : des pupitres renversés, des étagères effondrées sur elles-mêmes, du bois vermoulu mêlé à des débris de tablettes d'argile. Au centre de la salle, une tente de cuir brun est dressée, maintenue par deux pieux enfoncés entre les dalles. Devant la tente, deux gnolls sont accroupis. Ils ne font rien. Ils attendent._
+
+La salle a été une salle de travail — cela se devine encore, à qui regarde. Les murs portent des niches régulièrement espacées, taillées pour accueillir des rouleaux ou des codex. Elles sont vides. Au sol, quelques vestiges : un encrier de terre cuite renversé, une tache d'encre noire séchée depuis longtemps, un fragment de tablette de cire portant trois lignes de caractères illisibles sous la poussière. Les gnolls ne savent pas ce que c'était. Ils ne se sont pas posé la question.
+
+**Les gnolls.** Deux [[Gnoll|gnolls]] de la tribu de Khara occupent la salle avec l'humeur de gens que l'on fait attendre depuis trop longtemps. Ils tuent le temps comme ils le peuvent et commence à s'impatienter. Ils ont hâte que les négociations se terminent.
+
+**Khara.** Elle est présente dans la salle, sauf si une alarme l'a déjà fait partir. Elle peut être dans la tente, ou debout près de l'entrée, l'oreille tendue vers le reste du temple. Son comportement en cas d'intrusion est détaillé dans la section [[02 - Le temple oublié de Wazedah#Tactique des voleurs en cas d'intrusion|tactique en cas d'intrusion]].
+
+**Le paiement.** Dans la tente, sous une natte de jonc, une bourse de cuir fermée par un lacet de métal contient le paiement prévu pour les esclaves — ou du moins ce qu'il en reste après les versements déjà effectués : 180 po en pièces d'or étrangères et un collier de dents travaillées d'une valeur de 40 po pour qui trouve le bon acheteur. **(Trésor — 1 PX)**
+
+> **Note pour le MJ.** Voler ce butin à l'insu des gnolls sans trahir sa présence pourraient créer des tensions avec les voleurs. Khara serait prompte à accuser Wadim de jouer un double-jeu.
 ## Partie 3 — Les Galeries Supérieures
 
 ### Historique
