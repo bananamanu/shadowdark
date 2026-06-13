@@ -1,4 +1,13 @@
-## Malchor
+---
+
+tags:
+
+- jdr/pnj
+- DJ01
+- CS2
+
+---
+# Malchor
 
 _Lieutenant des voleurs de Wadim, conspirateur, allié ambigu_
 

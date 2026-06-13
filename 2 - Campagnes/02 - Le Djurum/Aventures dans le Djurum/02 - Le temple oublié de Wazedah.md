@@ -4,7 +4,6 @@ tags:
   - CS2
 campagne:
 ---
-
 # DJ 01 - Le temple oublié de Wazedah
 Une aventure de niveau 1–3 pour Shadowdark
 
@@ -103,7 +102,7 @@ Que ses commanditaires sont la Guilde des Voleurs d'Alkesh. Que l'informateur en
 
 **La récompense :**
 
-Tawfiq propose **30 po par tête** à la conclusion de la mission, avec une avance de **5 po** pour les frais immédiats. C'est une récompense honnête pour des aventuriers de bas niveau — ni extravagante, ni insultante. Les PJ peuvent négocier : il montera jusqu'à **40 po** sans trop résister, mais s'en tiendra là, arguant que ses commanditaires ne sont pas des mécènes. En termes de PX, ces 30-40 po constituent un trésor de qualité _normale_ (1 PX) — suffisant pour motiver sans déséquilibrer la progression.
+Tawfiq propose **30 po par tête** à la conclusion de la mission, avec une avance de **5 po** pour les frais immédiats. C'est une récompense honnête pour des aventuriers de bas niveau — ni extravagante, ni insultante. Les PJ peuvent négocier : il montera jusqu'à **40 po** sans trop résister, mais s'en tiendra là, arguant que ses commanditaires ne sont pas des mécènes. En termes de PX, ces 30-40 po constituent un **trésor de qualité normale (1 PX)** — suffisant pour motiver sans déséquilibrer la progression.
 
 Si les PJ demandent des garanties ou veulent connaître le commanditaire, Tawfiq répond avec un sourire indulgent : _"Les gens qui paient pour la discrétion paient aussi pour qu'on ne pose pas de questions. C'est le principe."_
 
@@ -231,16 +230,16 @@ Lancer 1d6 au rythme indiqué. Sur un **1**, une rencontre se produit. Tirer 1d8
 
 _Zone peu sûre — test toutes les 3h (toutes les 2h sur la route nord)_
 
-|d8|Rencontre|
-|---|---|
-|1|Tapis à l'ombre d'un affleurement rocheux, 1d3 [[Scorpion géant\|scorpions géants]] attaquent dès qu'on s'approche à portée courte. Peuvent être repérés par un test de SAG ND 12.|
-|2|Une meute de 1d4 [[Hyène\|hyènes]], attirées par l'odeur des provisions, suit le groupe à distance en attendant la nuit (cf. rencontre de nuit 1). Se disperse si l'une d'entre elles est tuée.|
-|3|Un PJ tiré au hasard voit le sol se dérober sous ses pieds (ou ceux de sa monture). Il s'agit de la galerie d'un [[Ankheg\|ankheg]] qui surgit du sol pour attaquer 1d4 rounds après. Il cible en premier les montures et échoue automatiquement son test de moral une fois avoir perdu la moitié de ses PV.|
-|4|1d4+2 elfes [[Siruul]] montés sur leurs chameaux argentés, à la recherche de [[Lirien Siruul\|Lirien]], la princesse disparue. Hostiles au premier abord (CHA ND 12 pour les calmer). Si les PJ ont déjà découvert le site de l'embuscade et leur en communiquent l'emplacement, les elfes les récompensent avec un trésor de niveau 1 (1 PX). Sinon, ils peuvent accompagner le groupe un moment — et constituer une protection bienvenue lors de la prochaine rencontre.|
-|5|Une caravane de marchands apparaît à portée longue, escortée par 1d4 mercenaires ([[Soldat\|soldats]] armés de lances et portant une armure de cuir). Ils prennent les PJ pour des bandits et se mettent en formation défensive. CHA ND 12 pour les convaincre de leurs bonnes intentions — en cas d'échec, les gardes attaquent. En cas de succès, les marchands peuvent vendre des rations et de l'eau (au double du prix habituel).|
-|6|Le sol tremble. Bassim hurle d'arrêter et de reculer. Une [[Bulette\|bulette]] ou un [[Ver pourpre\|ver pourpre]] passe à portée intermédiaire, indifférent au groupe si personne ne bouge. Tout PJ qui attaque ou fuit précipitamment devient une cible. Bassim conseille vivement de changer d'itinéraire : les PJ doivent choisir un autre hexagone de destination et se détourner de leur trajet initial.|
-|7|Un PJ tiré au hasard passe juste à côté d'un [[Cobra des sables\|cobra]] dissimulé dans un buisson — SAG ND 15 pour le repérer. Le serpent passe à l'attaque et tente de mordre le PJ ou sa monture. 1d8 de ses congénères émergent et se joignent au combat.|
-|8|1d3 [[Démon des dunes\|démons des dunes]] surgissent tels des mirages de chaleur à portée longue. Ils n'attaquent pas — ils observent, immobiles, pendant 1d4 rounds, puis disparaissent. Bassim crache par terre et accélère le pas sans commenter.|
+| d8  | Rencontre                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Tapis à l'ombre d'un affleurement rocheux, 1d3 [[Scorpion géant\|scorpions géants]] attaquent dès qu'on s'approche à portée courte. Peuvent être repérés par un test de SAG ND 12.                                                                                                                                                                                                                                                                                        |
+| 2   | Une meute de 1d4 [[Hyène\|hyènes]], attirées par l'odeur des provisions, suit le groupe à distance en attendant la nuit (cf. rencontre de nuit 1). Se disperse si l'une d'entre elles est tuée.                                                                                                                                                                                                                                                                           |
+| 3   | Un PJ tiré au hasard voit le sol se dérober sous ses pieds (ou ceux de sa monture). Il s'agit de la galerie d'un [[Ankheg\|ankheg]] qui surgit du sol pour attaquer 1d4 rounds après. Il cible en premier les montures et échoue automatiquement son test de moral une fois avoir perdu la moitié de ses PV.                                                                                                                                                              |
+| 4   | 1d4+2 elfes [[Siruul]] montés sur leurs chameaux argentés, à la recherche de [[Lirien Siruul\|Lirien]], la princesse disparue. Hostiles au premier abord (CHA ND 12 pour les calmer). Si les PJ ont déjà découvert le site de l'embuscade et leur en communiquent l'emplacement, les elfes les récompensent avec un **trésor normal (1 PX)**. Sinon, ils peuvent accompagner le groupe un moment — et constituer une protection bienvenue lors de la prochaine rencontre. |
+| 5   | Une caravane de marchands apparaît à portée longue, escortée par 1d4 mercenaires ([[Soldat\|soldats]] armés de lances et portant une armure de cuir). Ils prennent les PJ pour des bandits et se mettent en formation défensive. CHA ND 12 pour les convaincre de leurs bonnes intentions — en cas d'échec, les gardes attaquent. En cas de succès, les marchands peuvent vendre des rations et de l'eau (au double du prix habituel).                                    |
+| 6   | Le sol tremble. Bassim hurle d'arrêter et de reculer. Une [[Bulette\|bulette]] ou un [[Ver pourpre\|ver pourpre]] passe à portée intermédiaire, indifférent au groupe si personne ne bouge. Tout PJ qui attaque ou fuit précipitamment devient une cible. Bassim conseille vivement de changer d'itinéraire : les PJ doivent choisir un autre hexagone de destination et se détourner de leur trajet initial.                                                             |
+| 7   | Un PJ tiré au hasard passe juste à côté d'un [[Cobra des sables\|cobra]] dissimulé dans un buisson — SAG ND 15 pour le repérer. Le serpent passe à l'attaque et tente de mordre le PJ ou sa monture. 1d8 de ses congénères émergent et se joignent au combat.                                                                                                                                                                                                             |
+| 8   | 1d3 [[Démon des dunes\|démons des dunes]] surgissent tels des mirages de chaleur à portée longue. Ils n'attaquent pas — ils observent, immobiles, pendant 1d4 rounds, puis disparaissent. Bassim crache par terre et accélère le pas sans commenter.                                                                                                                                                                                                                      |
 
 ##### Rencontres de nuit
 
@@ -511,7 +510,29 @@ Dans ce climat, Wadim a noué un accord avec une tribu de gnolls esclavagistes d
 Les esclaves encore présents — une poignée de captifs enchaînés dans l'ancienne salle de prière — attendent leur sort sans savoir lequel arrivera en premier : la vente, la mort, ou quelqu'un qui ouvre leur cellule.
 ### Tactique des voleurs en cas d'intrusion
 
+Le temple n'est pas une garnison et ses occupants ne sont pas des soldats. Leur réponse à une intrusion est moins une tactique coordonnée qu'une réaction instinctive, modulée par les loyautés et les intérêts de chacun.
+
+**Alerte partielle.** Un bruit suspect, un garde qui ne répond plus, une porte ouverte qui ne devrait pas l'être. Les voleurs loyaux à Wadim vérifient les zones adjacentes par deux sans s'éloigner de leurs postes. Le camp de Malchor se regroupe dans le réfectoire ([[02 - Le temple oublié de Wazedah#12. Réfectoire|zone 12]]), s'arme et attend — Malchor observe avant d'agir. Khara sort la tête de sa tente, écoute, et se rassoit. Une rumeur ne l'intéresse pas.
+
+**Alerte générale.** Un coup de sifflet, un cri, un combat ouvert. Les deux camps réagissent ensemble — les querelles internes cessent temporairement. Les gardes de la salle de prière ([[02 - Le temple oublié de Wazedah#16. Salle de prière|zone 16]]) restent sur place et recoivent, si possible, les renforts de 2 voleurs supplémentaires. Les autres convergent vers le bruit par groupes. Malchor et ses hommes combattent, mais sans excès de zèle — ils seront les premiers à décrocher.
+
+Khara, elle, ne défend pas le temple. Elle chasse. Elle divise son groupe en trois : elle-même avec un gnoll prend le chemin du pèlerin par l'ouest, deux gnolls le prennent par l'est pour prendre les intrus en tenaille, le maître-chien lâche les hyènes en éclaireurs. Son rire et ses cris résonnent dans tout le temple. Elle harangue les intrus pour les déstabiliser
+
+**Fin de l'alerte.** Si les PJ fuient, les voleurs ne poursuivent pas au-delà des murs. Khara s'arrête au seuil et n'oublie jamais une proie. Les combattants sont soumis aux tests de moral habituels : les loyaux de Wadim tiennent plus longtemps que ceux de Malchor, mais pas indéfiniment. Une négociation avec Malchor est possible — il n'a pas de raison idéologique de mourir pour Wadim.
+
+**En cas de défaite ou de capture.** Si un ou plusieurs PJ sont vaincus, les voleurs tentent de les prendre vivants et ils sont conduit à la salle de prière  ([[02 - Le temple oublié de Wazedah#16. Salle de prière|zone 16]]). La partie n'est pas complètement perdue : Malchor sait reconnaître une opportunité lorsqu'il en voit une : à la tombée de la nuit, il vient proposer  aux captifs  un marché similaire à celui décrit dans la [[02 - Le temple oublié de Wazedah#10. Cuisine|zone 10]], mais avec des termes plus avantageux pour lui.
 ### Table de rencontres aléatoires
+
+L'ensemble du temple est un endroit **peu sûr** (un test tous les trois rounds) sauf aux endroits indiqués. 
+
+| d6  | Rencontre                                                                                           |
+| --- | --------------------------------------------------------------------------------------------------- |
+| 1   | 1d4+1 [[Bandit\|voleurs]] se dirige vers les écuries et se prépare à mener un raid vers l'extérieur |
+| 2   | Le maître-chien [[gnoll]] promène ses 1d3 [[hyène\|hyènes]].                                        |
+| 3   | Deux [[Bandit\|voleurs]] escorte 1d4+2 esclaves enchaînés vers les cuisines et la réserve.          |
+| 4   | [[Khara]] a un vif échange avec un [[Bandit\|voleur]]. Elle veut savoir où se trouve Wadim.         |
+| 5   | Un [[serpent cobra]] s'est échappé des galeries supérieures et se cache dans une coin sombre        |
+| 6   | Le [[fantôme]] d'un moine de la confrérie apparait soudainement.                                    |
 
 ### Description des zones
 ![[Le temple de Wazedah - niveau 1.jpg]]
@@ -544,7 +565,7 @@ C'est par ici que les PJ peuvent s'introduire dans le temple — à condition d'
 
 **Zone instable.** Traverser la tour impose un **test de DEX ND 9**. En cas d'échec, un éboulement partiel se produit : 1D6 dégâts (*test de CON ND 9* pour moitié) et un vacarme suffisant pour alerter les gardes de la tour ouest (zone 2). En cas de réussite, la traversée reste silencieuse — mais il y a toujours 1 chance sur 6 qu'une pierre se détache et provoque du bruit, quelle que soit l'issue du test.
 
-**Le butin caché.** Dans l'un des murs encore debout, le mortier fissuré dissimule une cachette grossière : un fragment de pierre descellé, derrière lequel est glissé un chiffon noué. Il contient une perle polie d'une valeur de 20 po (trésor Normal, 1 PX), subtilisée lors d'un récent raid par l'un des voleurs — un homme qui ne fait plus confiance à ses compagnons et attend le bon moment pour disparaître.
+**Le butin caché.** Dans l'un des murs encore debout, le mortier fissuré dissimule une cachette grossière : un fragment de pierre descellé, derrière lequel est glissé un chiffon noué. Il contient une perle polie d'une valeur de 20 po **(trésor Normal, 1 PX)**, subtilisée lors d'un récent raid par l'un des voleurs — un homme qui ne fait plus confiance à ses compagnons et attend le bon moment pour disparaître.
 
 Trouver la cachette nécessite un *test de SAG ND 15*. Si un PJ précise qu'il inspecte méthodiquement les murs, il bénéficie d'un avantage au test.
 
@@ -715,7 +736,7 @@ _Plusieurs formes sont allongées, immobiles. On entend une respiration lente et
 
 **Réveil.** Ces hommes dorment profondément. Un mouvement furtif, une lumière, voire des voix basses ne suffisent pas à les tirer du sommeil. Seul un bruit violent — l'alarme donnée ailleurs dans le temple, un combat proche, ou le rire strident de Khara — les fait se redresser.
 
-**Fouille.** Les affaires personnelles des voleurs sont sans intérêt pour l'essentiel — vêtements de rechange, rations, quelques objets de pacotille. En fouillant l'ensemble des balluchons, les PJ peuvent assembler un butin dispersé de 20 po au total — quelques pièces par sac, un couteau de bonne facture, des bijoux modestes volés à des victimes. (Trésor normal — 1 PX)
+**Fouille.** Les affaires personnelles des voleurs sont sans intérêt pour l'essentiel — vêtements de rechange, rations, quelques objets de pacotille. En fouillant l'ensemble des balluchons, les PJ peuvent assembler un butin dispersé de 20 po au total — quelques pièces par sac, un couteau de bonne facture, des bijoux modestes volés à des victimes. **(Trésor normal — 1 PX)**
 
 #### 14. Sanctuaire
 
@@ -785,10 +806,29 @@ La salle a été une salle de travail — cela se devine encore, à qui regarde.
 **Les gnolls.** Deux [[Gnoll|gnolls]] de la tribu de Khara occupent la salle avec l'humeur de gens que l'on fait attendre depuis trop longtemps. Ils tuent le temps comme ils le peuvent et commence à s'impatienter. Ils ont hâte que les négociations se terminent.
 
 **Khara.** Elle est présente dans la salle, sauf si une alarme l'a déjà fait partir. Elle peut être dans la tente, ou debout près de l'entrée, l'oreille tendue vers le reste du temple. Son comportement en cas d'intrusion est détaillé dans la section [[02 - Le temple oublié de Wazedah#Tactique des voleurs en cas d'intrusion|tactique en cas d'intrusion]].
-
 **Le paiement.** Dans la tente, sous une natte de jonc, une bourse de cuir fermée par un lacet de métal contient le paiement prévu pour les esclaves — ou du moins ce qu'il en reste après les versements déjà effectués : 180 po en pièces d'or étrangères et un collier de dents travaillées d'une valeur de 40 po pour qui trouve le bon acheteur. **(Trésor — 1 PX)**
 
 > **Note pour le MJ.** Voler ce butin à l'insu des gnolls sans trahir sa présence pourraient créer des tensions avec les voleurs. Khara serait prompte à accuser Wadim de jouer un double-jeu.
+
+#### 18. Bibliothèque
+
+_La salle a vaguement la forme d'un L, la plupart des pans mur formant un angle à 45° entre eux. Des étagères de pierre courent le long des parois — la plupart encore debout, quelques-unes effondrées, celle du nord-est renversée en travers du sol dans un chaos de tablettes brisées et de gravats. Des dizaines de documents jonchent le sol : parchemins froissés, tablettes d'argile fracturées, feuillets détachés qui ont glissé sous les décombres. Quelqu'un a déjà fouillé ici — et sans ménagement. Plusieurs fois, à en juger par les couches de désordre._
+
+C'était le cœur intellectuel du temple — la mémoire de la Confrérie, soigneusement constituée sur des générations. Les moines classaient ici leurs tablettes par sujet, leurs parchemins par date, leurs codex par ordre d'importance. Ce classement n'existe plus. Les premiers pillards ont renversé les étagères. Wadim et ses hommes ont achevé le travail, cherchant de l'or là où il n'y en avait pas, jetant ce qui ne les intéressait pas.
+
+Ce qui reste est considérable malgré tout — mais épars, endommagé, mélangé sans logique apparente. Il faudra du temps et de la méthode pour en tirer quelque chose.
+
+**Le passage secret.** Dans l'angle ouest du L, là où les deux pans de mur se rejoignent, une section de pierre paraît identique aux autres — mais un observateur attentif remarquera que le sol devant est légèrement usé, poli par des années de passage régulier. Wadim emprunte ce couloir souvent ; la trace est là pour qui la cherche. Un PJ qui examine activement les murs le trouve sans test. Un PJ qui se contente de traverser la salle peut tenter un *test de SAG ND 12* pour le remarquer passivement. Le mécanisme d'ouverture est une dalle pivotante actionnée par une pression sur une pierre descellée à hauteur de genou — discrète mais pas dissimulée. Le passage mène aux galeries supérieures.
+
+**Fouiller la bibliothèque**. Un examen sérieux des documents prend du temps — au moins une heure pour une première passe, davantage pour aller plus loin. Les PJ qui s'y attellent sont exposés aux rencontres aléatoires pendant ce temps. Les résultats dépendent du soin apporté à la recherche :
+
+| Effort                                      | Test      | Information                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parcourir rapidement les documents lisibles | Aucun     | Le nom de la Confrérie revient partout : **Ashir Bel Dhekran**. Il est gravé sur les tablettes, inscrit en en-tête des parchemins, sculpté dans le linteau d'une étagère.                                                                                                                                                                                                                                                                      |
+| Lecture attentive, recherche organisée      | INT ND 9  | La Confrérie servait une divinité nommée **Ord**, dieu du savoir et de la mémoire. Leurs écrits témoignent d'une discipline rigoureuse : préservation du savoir, neutralité politique, obligation de transmettre.                                                                                                                                                                                                                              |
+| Recoupement systématique des fragments      | INT ND 12 | Plusieurs documents font mention d'un conflit d'une ampleur inhabituelle — une menace qui a contraint la Confrérie à abandonner ses principes de neutralité et à s'impliquer directement dans la défense de la région. Les détails manquent, les documents sont lacunaires, mais le ton est grave : _"ce que nous avons affronté ne ressemble à rien de ce que nos archives décrivent."_                                                       |
+| Recherche exhaustive, plusieurs heures      | INT ND 15 | Dans les feuillets coincés sous l'étagère renversée, un carnet à la couverture de cuir noirci par l'humidité. Les dernières pages, partiellement lisibles, évoquent l'existence de l'Oasis d'Ashir Malun — un espace soustrait au monde ordinaire, où la Confrérie aurait mis en sécurité ce qui ne devait pas être perdu. Aucune localisation précise, mais une formulation qui revient deux fois : _"l'oasis qui n'est pas sur les cartes."_ |
+**Trésor.** Glissé entre deux tablettes d'argile intactes, enroulé dans un fourreau de cuir qui l'a protégé du pillage : un **parchemin de lévitation** (sort de niveau 2)
 ## Partie 3 — Les Galeries Supérieures
 
 ### Historique
